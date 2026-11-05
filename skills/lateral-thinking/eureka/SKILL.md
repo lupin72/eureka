@@ -29,9 +29,9 @@ This table is the only home of technique selection. One row per technique skill;
 eureka/<YYYY-MM-DD>-<slug>/
 ├── brief.md
 ├── ideas/
-│   └── <technique>.md          # one per technique run, deduplicated
+│   └── <technique>.md          # one per technique run; duplicates marked, never removed
 ├── verification/
-│   ├── <technique>.input.md    # the cards as the verifier saw them: no Movement
+│   ├── <technique>.input.md    # the live cards as the verifier saw them: no Movement
 │   └── <technique>.md          # that file's verification section
 ├── verification.md             # all sections, assembled
 └── report.md
@@ -55,9 +55,9 @@ eureka/<YYYY-MM-DD>-<slug>/
 - **Current situation**: the start point; resources, assets and context available today.
 - **Constraints**: budget, time, skills, people, rules the solution must respect.
 - **Out of bounds**: solutions or paths the user has ruled out ("none stated" is a valid answer).
-- **Obvious solution**: the default answer anyone in the user's position would reach first. It is the baseline for lateral distance, so state it plainly and concretely.
+- **Obvious solution**: the default answer anyone in the user's position would reach first. It is the baseline that later judges how lateral an idea is, so state it plainly and concretely.
 
-`verification.md` and each `verification/<technique>.md` follow the verification file contract in `lateral-verify`: one `## ideas/<technique>.md` section per ideas file, one `### <card heading>` entry per card, each with exactly one Verdict (✅ / 🔧 / ❌).
+`verification.md` and each `verification/<technique>.md` follow the verification file contract in `lateral-verify`: one `## ideas/<technique>.md` section per ideas file, one `### <card heading>` entry per live card, each with exactly one Verdict line in its canonical form.
 
 ## Idea card contract
 
@@ -68,11 +68,11 @@ Each ideas file starts with `# <Technique name> ideas` and holds 5–8 cards in 
 
 **Description:** <2–3 sentences: what the idea is and how it works.>
 **Technique:** <technique name>, <stimulus label>: `<stimulus>`
-**Movement:** <the path from stimulus to idea: which property of the stimulus led where.>
+**Movement:** <the path from stimulus to idea.>
 **Problem it solves:** <one sentence tying the idea to the brief's Problem.>
 ```
 
-A card that survives a merge lists every source in its Technique field, separated by `; `, and gains a line `**Convergence:** <the source technique names>`.
+Deduplication adds two optional lines. A card that survives a merge lists every source in its Technique field, separated by `; `, and gains a line `**Convergence:** <the source technique names>`. A card merged into another stays in its file, unchanged, and gains a last line `**Merged into:** ideas/<technique>.md › <card heading>` naming the card that survived. A **live card** is one without a Merged into line; only live cards are verified, ranked and reported.
 
 ## Report contract
 
@@ -104,13 +104,16 @@ A card that survives a merge lists every source in its Technique field, separate
 
 **Card:** ideas/<technique>.md › <card heading>
 **Source:** <source technique(s)>
+**Technique:** <the card's Technique field, verbatim>
 **Verdict:** <the verdict line from verification.md>
 **Note:** <one line: the broken link and fix for 🔧, what it actually solves for ❌>
 ```
 
-Every card in `ideas/` appears exactly once in the report, in the Shortlist or the Appendix, through its Card line.
+Every live card in `ideas/` appears exactly once in the report, in the Shortlist or the Appendix, through its Card line; a merged card is represented by the card it was merged into.
 
 ## Process
+
+When the user points at an existing session folder whose `verification.md` was re-run after `report.md` was written (for example by `lateral-verify`), run only steps 6 and 7 on it.
 
 ### 1. Clarify
 
@@ -146,13 +149,13 @@ Done when every technique in the run list has an ideas file with 5–8 cards car
 
 ### 4. Deduplicate
 
-Read every ideas file. Two cards are near-identical when realising one would realise the other: the same mechanism for the same people, whatever the wording. For each such group, keep the card from the technique listed first in the run list, merge the others' sources into its Technique field, add its Convergence line, fold the others' movements into its Movement, and delete the others from their files. Renumber headings within each file.
+Read every ideas file. Two cards are near-identical when realising one would realise the other: the same mechanism for the same people, whatever the wording. For each such group, keep the card from the technique listed first in the run list: merge the others' sources into its Technique field, add its Convergence line, and fold the others' movements into its Movement. Leave every other card of the group where it is, unchanged, and add its `**Merged into:**` line pointing at the kept card. Headings and numbering stay as generated.
 
-Done when no two remaining cards across files are near-identical. A file may drop below 5 cards here.
+Done when no two live cards across files are near-identical and every file still holds all the cards it was generated with.
 
 ### 5. Verify
 
-For each ideas file, write `verification/<technique>.input.md`: the same file with every `**Movement:**` line removed, all else unchanged. The verifier tests the idea, never its origin.
+For each ideas file, write `verification/<technique>.input.md`: the same file with every card that carries a Merged into line left out and every `**Movement:**` line removed, all else unchanged. The verifier tests the idea, never its origin.
 
 Spawn one `lateral-verify` sub-agent per input file, all in parallel, each with a fresh context window, using the skill's single-file mode:
 
@@ -160,21 +163,21 @@ Spawn one `lateral-verify` sub-agent per input file, all in parallel, each with 
 
 Without sub-agents, run the same single-file verification yourself, one file at a time.
 
-Assemble `verification.md`: a `# Verification` heading, then each `verification/<technique>.md` section in run-list order. Done when every card in `ideas/` has exactly one entry in `verification.md`.
+Assemble `verification.md`: a `# Verification` heading, then each `verification/<technique>.md` section in run-list order. Done when every live card in `ideas/` has exactly one entry in `verification.md`.
 
 ### 6. Rank
 
-Order every card:
+Order every live card:
 
 1. **Adherence gate**: every ❌ goes to the Appendix.
 2. **Chain state**: ✅ before 🔧.
 3. **Lateral distance**: within each verdict, the further a card's end state sits from the Obvious solution (a different mechanism, actor or resource rather than a variant of it), the higher.
 4. **Convergence** breaks remaining ties: more source techniques rank higher.
 
-The Shortlist takes the top 5–10 cards of that order: all of them when fewer than 5 pass the gate, and stopping where the next card adds little beyond those above it. Everything else goes to the Appendix. Done when every card has a place.
+The Shortlist takes the top 5–10 cards of that order, stopping where the next card adds little beyond those above it. The only exception to the minimum of 5: when fewer than 5 cards pass the gate, the Shortlist holds every card that passes. Everything else goes to the Appendix. Done when every live card has a place.
 
 ### 7. Report
 
-Write `report.md` following the report contract. Write each First step as an action the user could start this week within the Constraints. Then check: Shortlist size 5–10 (or every non-❌ card when fewer), no ❌ in it, ✅ entries before 🔧, and the Card lines cover every card in `ideas/` exactly once. Done when all four hold.
+Write `report.md` following the report contract. Write each First step as an action the user could start this week within the Constraints. Then check: Shortlist size 5–10 (or, the only exception, every non-❌ card when fewer than 5 pass), no ❌ in it, ✅ entries before 🔧, and the Card lines cover every live card in `ideas/` exactly once. Done when all four hold.
 
 Then print a chat summary: the techniques run and skipped, the verdict counts, the shortlist titles with their verdicts, and the path to `report.md`.

@@ -1,6 +1,6 @@
 ---
 name: lateral-provocation
-description: "Generate lateral ideas for a problem from a deliberately unreasonable PO statement, then use movement to extract usable ideas from it (de Bono's Provocation). Use when the user asks for provocation, PO or 'what if the opposite' ideas on a brief, or wants a quick single-technique idea session."
+description: "Provocation: generate lateral ideas for a problem from deliberately unreasonable PO statements, then use movement to extract usable ideas from them (de Bono). Use when the user asks for provocation, PO or 'what if' ideas on a brief, or wants a deliberately absurd starting point to escape an incremental fix."
 ---
 
 Provocation breaks the pattern of the obvious solution by stating something deliberately unreasonable about the problem, marked `PO` (provocative operation), and then using **movement** to travel from it to ideas that work. A provocation is a stepping stone, never a proposal: its value is where it lets thinking go, not whether it is true.
@@ -49,7 +49,7 @@ Each ideas file starts with `# <Technique name> ideas` and holds 5–8 cards in 
 
 **Description:** <2–3 sentences: what the idea is and how it works.>
 **Technique:** <technique name>, <stimulus label>: `<stimulus>`
-**Movement:** <the path from stimulus to idea: which property of the stimulus led where.>
+**Movement:** <the path from stimulus to idea.>
 **Problem it solves:** <one sentence tying the idea to the brief's Problem.>
 ```
 

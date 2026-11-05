@@ -1,6 +1,6 @@
 ---
 name: lateral-random-entry
-description: "Generate lateral ideas for a problem by forcing a connection with a genuinely random word (de Bono's Random Entry). Use when the user asks for random-word or random-entry ideas on a brief, or wants a quick single-technique idea session."
+description: "Random Entry: generate lateral ideas for a problem by forcing a connection with a random noun drawn from a bundled word list (de Bono). Use when the user asks for random-word or random-entry ideas on a brief, or is stuck inside one frame and wants an outside stimulus."
 ---
 
 Random Entry breaks the pattern of the obvious solution by forcing the problem to collide with a word nobody chose. The word is drawn from the bundled `nouns.txt` by the shell, so the stimulus is genuinely unpredictable; a word the model picks itself is a pattern, not a stimulus.
@@ -47,7 +47,7 @@ Each ideas file starts with `# <Technique name> ideas` and holds 5–8 cards in 
 
 **Description:** <2–3 sentences: what the idea is and how it works.>
 **Technique:** <technique name>, <stimulus label>: `<stimulus>`
-**Movement:** <the path from stimulus to idea: which property of the stimulus led where.>
+**Movement:** <the path from stimulus to idea.>
 **Problem it solves:** <one sentence tying the idea to the brief's Problem.>
 ```
 

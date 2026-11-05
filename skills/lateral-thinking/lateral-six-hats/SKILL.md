@@ -1,6 +1,6 @@
 ---
 name: lateral-six-hats
-description: "Generate lateral ideas for a problem with de Bono's Six Thinking Hats used as a generator: the Green Hat produces raw ideas, then White, Red, Black and Yellow refine each one. Use when the user asks for Six Hats ideas on a brief, or wants raw creative ideas already shaped by facts, gut feeling, risks and benefits."
+description: "Six Hats: generate lateral ideas for a problem with de Bono's Six Thinking Hats as a generator: the Green Hat produces raw ideas, then White, Red, Black and Yellow refine each one. Use when the user asks for Six Hats ideas on a brief, or wants raw ideas already shaped by facts, gut feeling, risks and benefits."
 ---
 
 Six Hats here is a generator. The Green Hat produces raw ideas; White, Red, Black and Yellow then reshape each idea before it is written down. The four refining hats change the idea; they never judge it. Judging belongs to a later backward verifier, so every card leaves this skill as a better idea, never as a scored one.
@@ -47,7 +47,7 @@ Each ideas file starts with `# <Technique name> ideas` and holds 5–8 cards in 
 
 **Description:** <2–3 sentences: what the idea is and how it works.>
 **Technique:** <technique name>, <stimulus label>: `<stimulus>`
-**Movement:** <the path from stimulus to idea: which property of the stimulus led where.>
+**Movement:** <the path from stimulus to idea.>
 **Problem it solves:** <one sentence tying the idea to the brief's Problem.>
 ```
 

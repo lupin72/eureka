@@ -16,7 +16,11 @@ eureka/<YYYY-MM-DD>-<slug>/
 ├── brief.md
 ├── ideas/
 │   └── <technique>.md
-└── verification.md
+├── verification/
+│   ├── <technique>.input.md    # the live cards as the verifier saw them: no Movement
+│   └── <technique>.md          # that file's verification section
+├── verification.md             # all sections, assembled
+└── report.md                   # eureka's ranked report, built from verification.md
 ```
 
 `<slug>` is 2–5 kebab-case words naming the problem. `brief.md` has exactly these sections:
@@ -37,7 +41,7 @@ eureka/<YYYY-MM-DD>-<slug>/
 - **Current situation**: the start point; resources, assets and context available today.
 - **Constraints**: budget, time, skills, people, rules the solution must respect.
 - **Out of bounds**: solutions or paths the user has ruled out ("none stated" is a valid answer).
-- **Obvious solution**: the default answer anyone in the user's position would reach first.
+- **Obvious solution**: the default answer anyone in the user's position would reach first. It is the baseline that later judges how lateral an idea is, so state it plainly and concretely.
 
 ## Idea card contract
 
@@ -52,11 +56,11 @@ Each ideas file starts with `# <Technique name> ideas` and holds cards in this s
 **Problem it solves:** <one sentence tying the idea to the brief's Problem.>
 ```
 
-After deduplication a card may list several source techniques. The card may arrive with the Movement field already stripped.
+After deduplication a card may list several source techniques and carry a `**Convergence:**` line. A card that carries a `**Merged into:** ideas/<technique>.md › <card heading>` line is a duplicate represented by the card it names: it gets no verification entry. A **live card** is one without that line. The card may arrive with the Movement field already stripped.
 
 ## Verification file contract
 
-`verification.md` holds one `##` section per ideas file, headed by its path relative to the session folder, and one `###` entry per card, headed by the card's heading text exactly as written in the ideas file, in the same order:
+`verification.md` holds one `##` section per ideas file, headed by its path relative to the session folder, and one `###` entry per live card, headed by the card's heading text exactly as written in the ideas file, in the same order:
 
 ```markdown
 # Verification
@@ -65,7 +69,7 @@ After deduplication a card may list several source techniques. The card may arri
 
 ### <n>. <Title>
 
-**Verdict:** <✅ | 🔧 | ❌> <short verdict label>
+**Verdict:** <one canonical verdict line, below>
 **Adherence:** <does the realised end state solve the brief's Problem? One or two sentences.>
 **Backward chain:**
 
@@ -78,7 +82,7 @@ After deduplication a card may list several source techniques. The card may arri
 **Actually solves:** <❌ only: the problem this idea does solve>
 ```
 
-Each entry carries exactly one Verdict line. Broken link and Possible fix appear on every 🔧 entry and only there; Actually solves appears on every ❌ entry and only there.
+Each entry carries exactly one Verdict line, in its canonical form: emoji and label verbatim, in English like the field labels, whatever the brief's language. The three canonical forms are `✅ Adherent and walkable`, `🔧 Adherent, link to fix` and `❌ Not adherent`; nothing else goes on the line. Broken link and Possible fix appear on every 🔧 entry and only there; Actually solves appears on every ❌ entry and only there.
 
 ## The test
 
@@ -109,20 +113,24 @@ Exactly one per idea, decided in this order:
 
 ### 1. Find the input
 
-- **Session folder**: the user names or points at a folder holding `brief.md` and `ideas/`. Verify every file in `ideas/`. An existing `verification.md` is replaced: this is a re-run, typically after the user tightened the brief.
-- **Own ideas**: the user supplies a list of ideas plus a brief. Create `eureka/<YYYY-MM-DD>-<slug>/` in the project root (date from `date +%F` when a shell is available). Map the brief onto Problem, Desired state, Current situation, Constraints and Out of bounds, ask the user in one message only about the fields that are missing or ambiguous, and write `brief.md`, adding the Obvious solution yourself. Then write `ideas/own.md` headed `# Own ideas`, one card per idea in the user's order: the user's wording as Title and Description, Technique `Own idea`, Movement `not given`, and Problem it solves from the user's words or, failing that, from the Description.
-- **Single file**: a caller names one ideas file and an output path. Verify only that file and write its section, in the verification file format, to that path.
+- **Session folder**: the user names or points at a folder holding `brief.md` and `ideas/`. Verify every file in `ideas/`. Existing `verification/` files and `verification.md` are replaced: this is a re-run, typically after the user tightened the brief.
+- **Own ideas**: the user supplies a list of ideas plus a brief. Create `eureka/<YYYY-MM-DD>-<slug>/` in the project root (date from `date +%F` when a shell is available). Map the brief onto Problem, Desired state, Current situation, Constraints and Out of bounds, ask the user in one message only about the fields that are missing or ambiguous, and write `brief.md`, adding the Obvious solution yourself. Then write `ideas/own.md` headed `# Own ideas`, one card per idea in the user's order: the user's wording as Title and Description, Technique `Own idea`, Movement `not given`, and Problem it solves from the user's words or, failing that, from the Description. From here on it is a session folder.
+- **Single file**: a caller names one ideas file and an output path. Verify only the live cards of that file and write its section, in the verification file format, to that path. Steps 2 and 4 do not apply.
 
 Done when you hold a `brief.md` with all six sections and every ideas file to verify.
 
-### 2. Verify every card
+### 2. Strip the inputs
 
-Run the test on each card in each ideas file, in file order. Done when every card in every file has an entry with Verdict, Adherence and Backward chain, plus the fields its verdict requires.
+Session folder only. For each `ideas/<technique>.md`, write `verification/<technique>.input.md`: the same file with every card that carries a Merged into line left out and every `**Movement:**` line removed, all else unchanged. From here on read the cards from these input files, so the verdicts rest on the idea alone. Done when every ideas file has its input file.
 
-### 3. Write the verification file
+### 3. Verify every card
 
-Write `verification.md` in the session folder (or the caller's output path) following the verification file contract. Then count: the `###` entries per section equal the `##` cards in that ideas file, and every heading matches. Done when the counts match for every file.
+Run the test on each live card of each input file, in file order, and write that file's section, headed `## ideas/<technique>.md`, to `verification/<technique>.md` (in single-file mode, to the caller's output path). Then count: the `###` entries equal the live cards in that ideas file, and every heading matches. Done when the counts match for every file and every entry has Verdict, Adherence and Backward chain, plus the fields its verdict requires.
 
-### 4. Report
+### 4. Assemble
 
-Tell the user the path of `verification.md`, the verdict counts (✅ / 🔧 / ❌), and the titles of the ✅ ideas. Leave the ideas files untouched.
+Session folder only. Write `verification.md`: a `# Verification` heading, then each `verification/<technique>.md` section, in the order of the Techniques table in `report.md` when one exists, otherwise in file-name order. Done when every live card in `ideas/` has exactly one entry in `verification.md`.
+
+### 5. Report
+
+Tell the user the path of `verification.md`, the verdict counts (✅ / 🔧 / ❌), and the titles of the ✅ ideas. When the session folder holds a `report.md`, say that it is now stale, since its ranking rests on the previous verdicts, and offer to rebuild it by running `eureka`'s Rank and Report steps on this session folder. Leave the ideas files untouched.

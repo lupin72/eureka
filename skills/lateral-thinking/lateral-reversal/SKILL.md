@@ -1,6 +1,6 @@
 ---
 name: lateral-reversal
-description: "Generate lateral ideas for a problem by reversing its direction or relationships (de Bono's Reversal: who acts on whom, what flows where, what comes first) and moving from the reversed form to usable ideas. Use when the user asks for reversal or flip-it-around ideas on a brief."
+description: "Reversal: generate lateral ideas for a problem by reversing its directions (who acts on whom, what flows where, what comes first) and moving from the reversed form to usable ideas (de Bono). Use when the user asks for reversal or flip-it-around ideas on a brief, or wants to see the problem from the other side."
 ---
 
 Reversal breaks the pattern of the obvious solution by turning the problem around. Every problem carries directions it takes for granted: who acts and who is acted on, which way things flow, what comes first, who seeks whom. Reverse one and the problem is seen from the other side. The reversed form is rarely the answer itself; it is a stepping stone, and the ideas come from the movement away from it.
@@ -47,7 +47,7 @@ Each ideas file starts with `# <Technique name> ideas` and holds 5–8 cards in 
 
 **Description:** <2–3 sentences: what the idea is and how it works.>
 **Technique:** <technique name>, <stimulus label>: `<stimulus>`
-**Movement:** <the path from stimulus to idea: which property of the stimulus led where.>
+**Movement:** <the path from stimulus to idea.>
 **Problem it solves:** <one sentence tying the idea to the brief's Problem.>
 ```
 
@@ -79,7 +79,7 @@ Done when you hold 6–10 directional statements covering at least three of thes
 
 ### 4. Apply Reversal
 
-1. Reverse each statement: swap actor and receiver, send the flow the other way, put the last step first, make the fixed thing move. Write the reversed form as a plain statement ("the users teach the app", "the shopping list comes before the meal plan"), however absurd it sounds.
+1. Reverse each statement: swap actor and receiver, send the flow the other way, put the last step first, make the fixed thing move. Write the reversed form as a plain statement ("the students teach the teacher", "the exam comes before the lesson"), however absurd it sounds.
 2. Treat each reversed form as a stepping stone: ask what would be true in that world, what it would take, and what part of it could work here. That path is the **movement**: follow it until it lands on something the user could do.
 3. Keep the ideas that sit far from the Obvious solution and stay clear of Out of bounds. Judge feasibility lightly here; a later verifier tests it.
 

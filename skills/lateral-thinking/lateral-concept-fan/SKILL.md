@@ -1,6 +1,6 @@
 ---
 name: lateral-concept-fan
-description: "Generate lateral ideas for a problem by stepping back from its goal to broad directions, then concepts, then concrete ideas (de Bono's Concept Fan). Use when the user asks for concept-fan ideas on a brief, or wants a quick single-technique idea session that widens the approaches considered."
+description: "Concept Fan: generate lateral ideas for a problem by stepping back from its goal to broad directions, then concepts, then concrete ideas (de Bono). Use when the user asks for concept-fan ideas on a brief, or wants approaches beyond the one kind of solution everyone argues over."
 ---
 
 The Concept Fan breaks the pattern of the obvious solution by refusing to start from it. The obvious solution is one concrete idea serving one concept; stepping back up the fan to the purpose, then fanning out through other directions and concepts, reaches ideas that never compete with it head-on. Every idea in the fan is reached from a concept, so the concept is the stimulus.
@@ -47,7 +47,7 @@ Each ideas file starts with `# <Technique name> ideas` and holds 5–8 cards in 
 
 **Description:** <2–3 sentences: what the idea is and how it works.>
 **Technique:** <technique name>, <stimulus label>: `<stimulus>`
-**Movement:** <the path from stimulus to idea: which property of the stimulus led where.>
+**Movement:** <the path from stimulus to idea.>
 **Problem it solves:** <one sentence tying the idea to the brief's Problem.>
 ```
 
@@ -69,9 +69,9 @@ Write `brief.md`, adding the Obvious solution yourself. Done when all six sectio
 
 Work right to left, from the purpose to the ideas:
 
-1. **Purpose**: the brief's Desired state in one line. If it already names a method ("more people using the reminders"), step back once more to what that method is for.
+1. **Purpose**: the brief's Desired state in one line. If it already names a method ("more people coming to the workshops"), step back once more to what that method is for.
 2. **Directions**: 3–5 broad approaches to the purpose, each a different mechanism or actor, not a variant of another. Write the Obvious solution's direction down and give it no further concepts; every other direction is the fan's real territory.
-3. **Concepts**: for each remaining direction, 2–3 general methods of moving in it, each stated as a way of doing things ("make the household, not the user, the customer").
+3. **Concepts**: for each remaining direction, 2–3 general methods of moving in it, each stated as a way of doing things ("make the group, not the individual, the customer").
 4. **Ideas**: for each concept, the concrete actions the user could take. A concept can serve as a new starting point: when it is still abstract, fan it again before landing on ideas.
 
 Done when every concept holds at least one concrete idea and at least three directions carry concepts.

@@ -1,6 +1,6 @@
 ---
 name: lateral-fractionation
-description: "Generate lateral ideas for a problem by breaking the situation into parts and recombining them in new ways (de Bono's Fractionation). Use when the user asks for fractionation ideas on a brief, or wants a quick single-technique idea session that rearranges what they already have."
+description: "Fractionation: generate lateral ideas for a problem by cutting the situation into parts and recombining them in new arrangements (de Bono). Use when the user asks for fractionation ideas on a brief, or wants new arrangements of the people, assets and steps they already have."
 ---
 
 Fractionation breaks the pattern of the obvious solution by dissolving the situation it was built for. The obvious solution treats the problem as one block with one known shape; cut the block into fragments, and the fragments can be put back together in arrangements the block never suggested. The fragments need not be the "true" components: any cut that yields pieces you can hold separately will do, and an unusual cut yields unusual pieces. Every idea is a recombination, so the fractions it joins are the stimulus.
@@ -47,7 +47,7 @@ Each ideas file starts with `# <Technique name> ideas` and holds 5–8 cards in 
 
 **Description:** <2–3 sentences: what the idea is and how it works.>
 **Technique:** <technique name>, <stimulus label>: `<stimulus>`
-**Movement:** <the path from stimulus to idea: which property of the stimulus led where.>
+**Movement:** <the path from stimulus to idea.>
 **Problem it solves:** <one sentence tying the idea to the brief's Problem.>
 ```
 

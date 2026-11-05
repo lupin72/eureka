@@ -1,6 +1,6 @@
 ---
 name: lateral-challenge
-description: "Generate lateral ideas for a problem by challenging the assumptions behind how it is handled today (de Bono's Challenge: \"why is it done this way?\"). Use when the user asks for challenge or assumption-busting ideas on a brief, or wants to question the way things are currently done."
+description: "Challenge: generate lateral ideas for a problem by asking 'why is it done this way?' of how it is handled today and dropping the assumptions that surface (de Bono). Use when the user asks for challenge or assumption-busting ideas on a brief, or wants to question an established process, habit or industry norm."
 ---
 
 Challenge breaks the pattern of the obvious solution by questioning why things are done the way they are. It is not criticism: the current way is not judged wrong, only treated as one way among others. Every feature of the current handling rests on an assumption that was once a good reason, a habit or an accident; drop or replace the assumption and a different path opens.
@@ -47,7 +47,7 @@ Each ideas file starts with `# <Technique name> ideas` and holds 5–8 cards in 
 
 **Description:** <2–3 sentences: what the idea is and how it works.>
 **Technique:** <technique name>, <stimulus label>: `<stimulus>`
-**Movement:** <the path from stimulus to idea: which property of the stimulus led where.>
+**Movement:** <the path from stimulus to idea.>
 **Problem it solves:** <one sentence tying the idea to the brief's Problem.>
 ```
 
@@ -69,7 +69,7 @@ Write `brief.md`, adding the Obvious solution yourself. Done when all six sectio
 
 Describe how the problem is handled today, from the Current situation and the Obvious solution: who does what, for whom, where, when, in what order, with which tools, paid by whom, and measured how. For each feature ask "why is it done this way?", and ask "why?" again of the answer; the assumption is what the answers take for granted.
 
-Write each one as a plain statement the user would nod at ("dinners are planned for a whole week at once", "the app is used by one person per household"). Done when you hold 8–12 assumptions, spread across actors, timing, place, resources and purpose, and none of them restates a Constraint or Out of bounds: those are the user's rules, and they stay.
+Write each one as a plain statement the user would nod at ("customers come to the shop to buy", "the meeting happens at the same hour every week"). Done when you hold 8–12 assumptions, spread across actors, timing, place, resources and purpose, and none of them restates a Constraint or Out of bounds: those are the user's rules, and they stay.
 
 ### 4. Apply Challenge
 

@@ -1,6 +1,6 @@
 ---
 name: lateral-alternatives
-description: "Generate lateral ideas for a problem by listing deliberate alternatives for each element of the current approach, well past the first adequate one (de Bono's Alternatives). Use when the user asks for alternatives ideas on a brief, or wants a quick single-technique idea session that questions each piece of the usual way."
+description: "Alternatives: generate lateral ideas for a problem by listing deliberate alternatives for each element of the usual approach, well past the first adequate ones (de Bono). Use when the user asks for alternatives ideas on a brief, or wants other ways of doing each part of a mostly-right solution."
 ---
 
 The Alternatives technique breaks the pattern of the obvious solution by refusing to stop at the first answer that works. The obvious solution is a bundle of elements, each chosen because it was the first adequate one; take each element, name what it is for, and keep listing other ways to serve that purpose after the adequate ones run out. The late alternatives, the ones you had to push for, are the lateral ones. Every idea comes from one alternative for one element, so that pair is the stimulus.
@@ -47,7 +47,7 @@ Each ideas file starts with `# <Technique name> ideas` and holds 5–8 cards in 
 
 **Description:** <2–3 sentences: what the idea is and how it works.>
 **Technique:** <technique name>, <stimulus label>: `<stimulus>`
-**Movement:** <the path from stimulus to idea: which property of the stimulus led where.>
+**Movement:** <the path from stimulus to idea.>
 **Problem it solves:** <one sentence tying the idea to the brief's Problem.>
 ```
 
@@ -67,7 +67,7 @@ Write `brief.md`, adding the Obvious solution yourself. Done when all six sectio
 
 ### 3. Name the elements
 
-Break the Obvious solution, and the way things are done in the Current situation, into 4–6 elements: who acts, what they use, when it happens, where, through which channel, what triggers it. Name each element in a few words and give it a **fixed point**: the purpose it serves, stated without naming the element itself ("get the household to open the plan on Sunday", not "send the email").
+Break the Obvious solution, and the way things are done in the Current situation, into 4–6 elements: who acts, what they use, when it happens, where, through which channel, what triggers it. Name each element in a few words and give it a **fixed point**: the purpose it serves, stated without naming the element itself ("let customers know their order is ready", not "send a text message").
 
 Done when every element has a fixed point free of its current form.
 

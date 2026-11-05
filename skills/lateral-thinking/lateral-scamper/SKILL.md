@@ -1,6 +1,6 @@
 ---
 name: lateral-scamper
-description: "Generate lateral ideas for a problem by running the current solution through the seven SCAMPER operators (Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse). Use when the user asks for SCAMPER ideas on a brief, or wants to rework an existing product, process or solution."
+description: "SCAMPER: generate lateral ideas for a problem by running the current solution through the seven operators (Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse). Use when the user asks for SCAMPER ideas on a brief, or wants to rework an existing product, process or service."
 ---
 
 SCAMPER moves away from the obvious solution by taking what already exists apart and pushing each piece through seven operators: Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse. Every operator is a fixed question, so the stimulus is the operator, not the model's taste: an idea that no operator produced is a pattern, not a movement.
@@ -47,7 +47,7 @@ Each ideas file starts with `# <Technique name> ideas` and holds 5–8 cards in 
 
 **Description:** <2–3 sentences: what the idea is and how it works.>
 **Technique:** <technique name>, <stimulus label>: `<stimulus>`
-**Movement:** <the path from stimulus to idea: which property of the stimulus led where.>
+**Movement:** <the path from stimulus to idea.>
 **Problem it solves:** <one sentence tying the idea to the brief's Problem.>
 ```
 
