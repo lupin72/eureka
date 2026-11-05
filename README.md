@@ -19,12 +19,12 @@ All skills live under `skills/lateral-thinking/`.
 | `lateral-provocation` | States deliberately unreasonable `PO` statements about your problem, of a type drawn at random (reversal, exaggeration, distortion, wishful thinking), and uses movement to turn them into 5–8 idea cards. |
 | `lateral-scamper` | Runs what exists today through Substitute, Combine, Adapt, Modify, Put to another use, Eliminate and Reverse, and writes 5–8 idea cards, each naming its operator. |
 | `lateral-six-hats` | Generates raw ideas with the Green Hat, reshapes each with White, Red, Black and Yellow (no verdicts), and writes 5–8 idea cards showing the seed and its refinement. |
-| `lateral-verify` | Tests ideas backwards: assumes each is realised, walks back to today in at most 7 steps, and gives each one verdict: ✅ adherent and walkable, 🔧 adherent with a link to fix, ❌ not adherent. |
 | `lateral-challenge` | Asks "why is it done this way?" until the assumptions behind the current handling surface, then drops or replaces each one, giving 5–8 idea cards that each name the assumption challenged. |
 | `lateral-reversal` | Reverses the problem's directions (who acts on whom, what flows where, what comes first), then moves from each reversed form to 5–8 idea cards that each name the reversal applied. |
 | `lateral-concept-fan` | Steps back from your goal to broad directions, then concepts, then concrete ideas, and cards each idea with the concept it came from. |
 | `lateral-fractionation` | Breaks your situation into fragments and recombines them in new ways, carding each idea with the fractions it joins. |
 | `lateral-alternatives` | Takes each element of the obvious solution and pushes for alternatives past the first adequate ones, carding each idea with its element and alternative. |
+| `lateral-verify` | Tests ideas backwards: assumes each is realised, walks back to today in at most 7 steps, and gives each one verdict: ✅ adherent and walkable, 🔧 adherent with a link to fix, ❌ not adherent. |
 
 ## Usage
 
