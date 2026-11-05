@@ -14,6 +14,8 @@ This table is the only home of technique selection. One row per technique skill;
 | Technique | Skill | Summary | Pick when |
 | --- | --- | --- | --- |
 | Random Entry | `lateral-random-entry` | Draw a random concrete noun with the shell from the skill's bundled word list, list its properties, and force each property onto the problem until it moves to a usable idea. | The brief is stuck inside one frame or industry and needs an outside stimulus; works in any domain, so it is the default when few rows fit. |
+| Challenge | `lateral-challenge` | Describe how the problem is handled today, ask "why is it done this way?" of each feature until 8–12 taken-for-granted assumptions surface, then drop or replace each assumption and follow the change to a usable idea. | The problem has an established way of being handled (a process, a habit, an industry norm) whose reasons nobody questions any more. |
+| Reversal | `lateral-reversal` | List the problem's directions (who acts on whom, what flows where, what comes first, who seeks whom), reverse each one, and move from the reversed form to a usable idea. | The problem has clear actors, flows or a fixed sequence, so flipping who does what or what comes first gives a fresh view from the other side. |
 
 ## Session folder contract
 
