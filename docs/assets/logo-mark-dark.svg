@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <title>Eureka</title>
+  <defs>
+    <radialGradient id="glow" cx="40%" cy="38%" r="60%">
+      <stop offset="0" stop-color="#FFC94D" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#FFC94D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="64" cy="54" r="36" fill="url(#glow)"/>
+  <path d="M46 90 C35 82 26 70 26 54 A38 38 0 0 1 102 54 C102 70 93 82 82 90 V98 H46 Z" fill="none" stroke="#E6EDF3" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M50 109 H78 M55 119 H73" stroke="#E6EDF3" stroke-width="7" stroke-linecap="round"/>
+  <path d="M64 30 V66" stroke="#E6EDF3" stroke-opacity=".3" stroke-width="5" stroke-linecap="round" stroke-dasharray="0 9"/>
+  <path d="M64 92 V76 C64 68 59 65 53 65 C49 65 46 62 46 56 V50" fill="none" stroke="#F5A524" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="46" cy="39" r="12" fill="#F5A524" fill-opacity=".22"/>
+  <circle cx="46" cy="39" r="7" fill="#F5A524"/>
+</svg>
