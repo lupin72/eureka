@@ -1,0 +1,3 @@
+interface:
+  display_name: "Lateral: SCAMPER"
+  short_description: "Lateral ideas from the seven SCAMPER operators"

@@ -14,6 +14,8 @@ This table is the only home of technique selection. One row per technique skill;
 | Technique | Skill | Summary | Pick when |
 | --- | --- | --- | --- |
 | Random Entry | `lateral-random-entry` | Draw a random concrete noun with the shell from the skill's bundled word list, list its properties, and force each property onto the problem until it moves to a usable idea. | The brief is stuck inside one frame or industry and needs an outside stimulus; works in any domain, so it is the default when few rows fit. |
+| SCAMPER | `lateral-scamper` | Break the current situation and the obvious solution into concrete elements, apply Substitute, Combine, Adapt, Modify, Put to another use, Eliminate and Reverse to them, and keep ideas spanning at least four operators, each card naming its operator. | Something already exists to rework (a product, service, process or routine), so the problem is improving or reinventing it rather than starting from nothing. |
+| Six Hats | `lateral-six-hats` | Wear the Green Hat to write raw ideas far from the obvious solution, then reshape each with White (facts), Red (gut), Black (risks designed out) and Yellow (benefits), giving no verdicts; the Technique field holds the Green Hat seed, the Movement the four refinements. | The brief involves people's feelings or several stakeholders, or raw ideas are likely to stall on facts and risks, so they need shaping before verification. |
 
 ## Session folder contract
 
