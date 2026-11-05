@@ -1,6 +1,6 @@
 ## ideas/provocation.md
 
-### 1. Everyone owns a night
+### 5. Everyone owns a night
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Once household members own nights, the week's plan no longer hangs on one person's motivation: others expect their night to be on it and their picks to show up on the list. That gives new account holders a reason to keep planning weekly past the first two weeks, which is the brief's Desired state. It does carry a risk: it only helps multi-person households, so single-person users get no retention gain from it.

@@ -1,6 +1,6 @@
 ## ideas/challenge.md
 
-### 1. Self-run swap board with shift captains
+### 5. Self-run swap board with shift captains
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. Once it is running, Saturdays are covered by a pool of at least 40 people who each give as many Saturdays as suits them. That deals with both halves of the Problem: fewer people leave from burnout or guilt over absences, and people under 50 with irregular working and family weeks, who cannot promise a fixed weekly slot, can now join. The pool can grow to the Desired state's 40 active volunteers, a third of them under 50.

@@ -20,7 +20,23 @@ Elements:
   - Facebook page; parish newsletter; supermarket posters; open day
   - *second round:* university service-learning modules; company volunteering-day schemes; job centre work-experience referrals
 
-## 1. Saturday crèche, run by the elders
+## 1. Adopt-a-Saturday teams
+
+**Description:** Local workplaces, sports clubs and parents' groups each adopt one Saturday a month as a team of six to eight, filling the shift together and finding their own cover. Many employers already give staff paid volunteering days, so the team arrives with its own motivation and its own organiser.
+**Technique:** Alternatives, alternative: `unit of commitment → a whole team adopts one Saturday a month`
+**Movement:** The fixed point is enough hands on every Saturday, not enough individuals. Moving the unit from a person to a group made the team, not the coordinator, responsible for turning up, and pointed toward groups made up mostly of working-age people.
+**Problem it solves:** It brings in younger volunteers six to eight at a time, and the coordinator deals with four or five team captains instead of chasing forty individuals.
+**Merged into:** ideas/random-entry.md › 7. Group lift bookings
+
+## 2. The CV-ready hygiene certificate
+
+**Description:** Replace the in-house briefing with a recognised entry-level food-hygiene certificate, paid from the €3,000 budget and free to anyone who commits to ten Saturdays. Students, job seekers and career changers get a qualification that catering and retail employers ask for, and Second Shelf gets trained volunteers.
+**Technique:** Alternatives, alternative: `onboarding briefing → a recognised food-hygiene certificate that newcomers can put on a CV`
+**Movement:** The briefing has to happen anyway to keep food safe. Once it became a qualification worth having outside the food bank, the compulsory step turned into the reason under-50s sign up.
+**Problem it solves:** It recruits under-50s by giving them something with career value in return, without paying them.
+**Merged into:** ideas/random-entry.md › 3. Ski-school credentials
+
+## 3. Saturday crèche, run by the elders
 
 **Description:** Open a supervised children's corner at the warehouse on Saturdays so parents can volunteer without needing childcare. The over-65 regulars who find lifting crates harder take turns running it (story time, colouring, a snack table), which keeps them on the rota.
 **Technique:** Alternatives, alternative: `the thank-you → a Saturday crèche so parents can come`; SCAMPER, operator: `Combine`; Six Hats, Green Hat seed: `Make childcare the reason people can come, not the reason they can't`
@@ -28,21 +44,29 @@ Elements:
 **Problem it solves:** It opens the door to parents under 50 whose Saturdays are taken up by their children, and it slows the loss of older volunteers by giving them a lighter role.
 **Convergence:** Alternatives, SCAMPER, Six Hats
 
-## 2. Bring-a-grandchild generations shift
+## 4. Bring-a-grandchild generations shift
 
 **Description:** Ask each of the 30 over-65 regulars to bring one younger relative or neighbour to a "generations Saturday" each quarter, where the two work the same station side by side. The newcomer sees a familiar face on day one, and the older volunteer passes on what they know before stepping back.
 **Technique:** Alternatives, alternative: `who recruits → each older volunteer brings a younger relative`
 **Movement:** The fixed point was a trusted personal invitation. The most trusted people Second Shelf could ask to do the inviting are the very volunteers it is losing, and most of their families are under 50.
 **Problem it solves:** It makes the ageing core of the rota the route younger people come in by, so the volunteer base renews itself instead of shrinking.
 
-## 3. Pedal parcels
+## 5. Booked micro-shifts
+
+**Description:** Split Saturday into 90-minute slots that anyone can book from their phone like a gym class, with a fixed number of places per slot and an automatic reminder the night before. A free booking tool keeps the coordinator's job to checking numbers each Thursday.
+**Technique:** Alternatives, alternative: `unit of commitment → 90-minute micro-shifts booked like a gym class`
+**Movement:** Holding "enough hands per Saturday" as the fixed point let the commitment shrink from being a regular to booking a slot. Borrowing from gym booking made a short, flexible pledge feel normal to people with busy weekends.
+**Problem it solves:** It lowers the bar for working-age people who will not promise every Saturday but will give 90 minutes most weeks.
+**Merged into:** ideas/provocation.md › 7. Ninety-minute micro-slots
+
+## 6. Pedal parcels
 
 **Description:** Invite a local cycling club, and anyone with a cargo bike, to deliver Saturday parcels to housebound households along fixed routes. Riders sign up as a club activity, the ride itself is part of the reward, and the van is freed for supermarket pickups.
 **Technique:** Alternatives, alternative: `where and what the work is → Saturday bike deliveries to housebound households`
 **Movement:** The fixed point is getting parcels to households, not getting volunteers into a warehouse. Moving some of the work onto the road created a role that appeals to active, younger people who would never pack crates.
 **Problem it solves:** It creates a new volunteer role that suits under-50s and brings in a whole club at once.
 
-## 4. University service-learning partner
+## 7. University service-learning partner
 
 **Description:** Offer Second Shelf as a placement for a university or college service-learning, social-work or nutrition module: students do a set number of Saturdays for course credit and the coordinator signs off their hours. Each new class brings a fresh group, and some students stay on after the module ends.
 **Technique:** Alternatives, alternative: `recruitment channel → university service-learning modules`

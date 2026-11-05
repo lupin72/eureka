@@ -33,7 +33,7 @@
 3. A lightweight web view of a plan and a votes endpoint are built on the existing backend.
 4. The two engineers and the designer schedule the web view and votes for the quarter, with hosting costs well under €10,000. This is achievable today.
 
-### 4. Dinner calendar feed
+### 6. Dinner calendar feed
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Realised, the plan sits in the household's everyday calendar, so Pantry stays visible between sessions and is one tap away when a dinner needs adjusting. That supports users still planning with Pantry after two months.
@@ -47,7 +47,7 @@
 **Broken link:** Step 2: default per-dinner calendar alerts make the feed an automated reminder channel on the user's device. In effect it is a push-notification campaign, which is Out of bounds.
 **Possible fix:** Publish events with no alarms (no VALARM in the feed) and leave any alerts to the user's own calendar settings. The feed then gives visibility, not notifications.
 
-### 5. Skip-proof week
+### 7. Skip-proof week
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Realised, a week that didn't go to plan no longer reads as a failure. This removes a direct trigger for new users abandoning after their first or second planned week, so more stay to the two-month Desired state.
@@ -58,7 +58,7 @@
 3. Each dinner has a cooked/not-cooked state, and the designer has redrawn the week view and summary copy without "missed" markers.
 4. The team scopes these planner and copy changes for the quarter with the current four people and no spend. This is achievable today.
 
-### 6. Cook-swap pairs
+### 8. Cook-swap pairs
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Realised, new users have a standing weekly commitment to another household built into their plan. That is an outside reason to keep planning with Pantry for months, which is the Desired state.

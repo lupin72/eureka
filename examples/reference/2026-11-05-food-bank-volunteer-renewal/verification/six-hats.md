@@ -1,6 +1,6 @@
 ## ideas/six-hats.md
 
-### 1. Warehouse Desk Days
+### 3. Warehouse Desk Days
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. A steady flow of under-50 remote workers who already know the warehouse and the team, converted onto Saturday shifts, adds younger regulars to the rota and works toward 40 active volunteers with a third under 50.
@@ -16,7 +16,7 @@
 **Broken link:** Step 3: visitors sort and label food from their first visit, but the idea only asks for the food-safety briefing before a Saturday shift. That breaks the constraint that every volunteer passes the briefing, and it also leaves the over-18 check undone.
 **Possible fix:** Make the short food-safety briefing, with an age check, the price of entry to desk days: run it at the start of each visitor's first visit, so no one handles food unbriefed and every desk-day regular is already cleared for Saturdays.
 
-### 2. Gift a Saturday
+### 5. Gift a Saturday
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. Each gift brings someone new, often a younger friend or relative, to a guided first Saturday with a named buddy. A first shift with a buddy is the start most likely to turn into a regular slot, which feeds the rota's size and its under-50 share.
@@ -29,7 +29,7 @@
 5. A few hundred cards have been printed for around €100–200. The coordinator, within the four spare hours a week, has set dates for group briefings and a list of willing buddies, and the supermarkets have agreed to put the cards out.
 6. Today: Second Shelf has good relations with two supermarkets, a Facebook page with 1,200 followers, current regulars who can act as buddies, and the €3,000 budget.
 
-### 3. Bookable Micro-Shifts
+### 6. Bookable Micro-Shifts
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. Short slots booked by phone lower the barrier for busy under-50s, and the route from six slots to a fixed slot turns occasional helpers into regulars. Together these grow the Saturday rota toward 40 and raise its under-50 share, while older regulars keep their long shifts.

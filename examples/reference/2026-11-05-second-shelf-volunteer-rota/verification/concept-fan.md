@@ -1,6 +1,6 @@
 ## ideas/concept-fan.md
 
-### 1. Run to the Shelf
+### 7. Run to the Shelf
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. A running club that turns up as a group every Saturday adds a recurring block of mostly under-50 volunteers to the distribution rota. That moves Second Shelf towards 40 active volunteers with at least a third under 50, and the weekly ritual makes them stay, which is what keeps the rota stable.

@@ -1,8 +1,8 @@
 ## ideas/alternatives.md
 
-### 1. Cercasi passo uguale al mio
+### 2. Cercasi passo uguale al mio
 
-**Verdict:** ✅ Aderente e percorribile
+**Verdict:** ✅ Adherent and walkable
 **Adherence:** Sì: una o due persone fisse con cui camminare a lungo diventano amiche in città che può chiamare senza organizzare troppo, e la conversazione a due è adatta alla sua introversione. Da sola copre una parte del Desired state (un'uscita ogni due settimane, una o due persone), quindi va affiancata ad altro per arrivare a tre amici e a un'uscita settimanale.
 **Backward chain:**
 
@@ -12,9 +12,9 @@
 4. L'annuncio è affisso nei negozi di montagna e pubblicato nei gruppi online di expat tedeschi e inglesi (e, se accessibile, alla bacheca del Politecnico).
 5. Ha scritto l'annuncio in italiano, inglese e tedesco, indicando un primo percorso raggiungibile coi mezzi (per esempio in Val di Susa o nelle valli di Lanzo): lo può fare oggi, gratis.
 
-### 2. Il cane del vicino
+### 4. Il cane del vicino
 
-**Verdict:** ✅ Aderente e percorribile
+**Verdict:** ✅ Adherent and walkable
 **Adherence:** Sì: gli incontri quotidiani con gli stessi proprietari di cani al Valentino, a due passi da San Salvario, creano conoscenze ripetute e vicine da cui possono nascere amicizie da vedere senza organizzazione; il cane toglie a lei il peso di rompere il ghiaccio.
 **Backward chain:**
 
@@ -24,9 +24,9 @@
 4. Ha lasciato un biglietto nella bacheca del palazzo o del quartiere offrendosi gratis per le passeggiate serali, e/o ha contattato un'associazione che gestisce i volontari del canile municipale.
 5. Scrive il biglietto o la mail all'associazione: lo può fare oggi, a costo zero.
 
-### 3. Martedì in ciclofficina
+### 5. Martedì in ciclofficina
 
-**Verdict:** ✅ Aderente e percorribile
+**Verdict:** ✅ Adherent and walkable
 **Adherence:** Sì: una serata fissa a settimana con lo stesso piccolo gruppo di volontari garantisce l'uscita settimanale del Desired state e la ripetizione con poche persone da cui nascono amicizie, in un contesto fianco a fianco che non la stanca.
 **Backward chain:**
 
@@ -36,9 +36,9 @@
 4. Ha individuato una ciclofficina popolare con una serata fissa raggiungibile in bici da San Salvario.
 5. Cerca online le ciclofficine popolari di Torino e i loro orari: lo può fare oggi, gratis.
 
-### 4. Il turno del GAS
+### 7. Il turno del GAS
 
-**Verdict:** ✅ Aderente e percorribile
+**Verdict:** ✅ Adherent and walkable
 **Adherence:** Sì: un turno settimanale con gli stessi due o tre compagni e le stesse famiglie del quartiere le dà un incontro fisso a settimana con persone vicine, in piccolo gruppo e attorno al cibo, che le piace; sono le condizioni da cui nascono amicizie da vedere senza organizzazione.
 **Backward chain:**
 

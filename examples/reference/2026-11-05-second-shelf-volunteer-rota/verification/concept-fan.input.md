@@ -15,7 +15,7 @@ Fan:
     - Concept: move the work to the hours younger people have free
     - Concept: fold the shift into something people already do for fun
 
-## 1. Run to the Shelf
+## 7. Run to the Shelf
 
 **Description:** Second Shelf partners with a local running club or parkrun group so that a Saturday social run finishes at the warehouse, where runners do a 90-minute distribution shift and share a breakfast paid from the budget. The run becomes the club's weekly ritual and the shift part of it.
 **Technique:** Concept Fan, concept: `fold the shift into something people already do for fun`

@@ -98,7 +98,7 @@
 
 ## ideas/fractionation.md
 
-### 1. The hygiene certificate as a front door
+### 3. The hygiene certificate as a front door
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. Students and job-seekers are mostly under 50, and a supervised Saturday shift built into the course puts them on the line, so this targets both the size of the rota and its age mix.
@@ -113,7 +113,7 @@
 **Broken link:** Step 3. Second Shelf cannot issue a recognised food-hygiene certificate by itself, because hospitality food-hygiene training has to come from an accredited provider. Paying an accredited trainer every month would also strain the €3,000 budget and the coordinator's four hours.
 **Possible fix:** Partner with a local catering school or accredited training provider that co-delivers and co-signs one session a quarter at a reduced or donated fee. Between those sessions, give each graduate a signed volunteer-hours reference letter alongside the in-house briefing.
 
-### 2. Grandparent corner
+### 4. Grandparent corner
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. It works on both sides of the Problem. Older regulars who would otherwise leave stay active, and under-50 parents who were kept away by Saturday childcare can join the rota.
@@ -125,7 +125,7 @@
 4. Several older regulars who struggle with crates have agreed to switch roles.
 5. Today the coordinator can raise the idea with the regulars on a Saturday and phone the insurer. Both fit in the four spare hours.
 
-### 3. Friday Night Pack
+### 5. Friday Night Pack
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. It gives working people a way in that fits their week and then moves them onto the Saturday rota. That raises numbers and lowers the average age.
@@ -143,7 +143,7 @@
 
 ## ideas/six-hats.md
 
-### 1. Warehouse Desk Days
+### 3. Warehouse Desk Days
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. A steady flow of under-50 remote workers who already know the warehouse and the team, converted onto Saturday shifts, adds younger regulars to the rota and works toward 40 active volunteers with a third under 50.
@@ -159,7 +159,7 @@
 **Broken link:** Step 3: visitors sort and label food from their first visit, but the idea only asks for the food-safety briefing before a Saturday shift. That breaks the constraint that every volunteer passes the briefing, and it also leaves the over-18 check undone.
 **Possible fix:** Make the short food-safety briefing, with an age check, the price of entry to desk days: run it at the start of each visitor's first visit, so no one handles food unbriefed and every desk-day regular is already cleared for Saturdays.
 
-### 2. Gift a Saturday
+### 5. Gift a Saturday
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. Each gift brings someone new, often a younger friend or relative, to a guided first Saturday with a named buddy. A first shift with a buddy is the start most likely to turn into a regular slot, which feeds the rota's size and its under-50 share.
@@ -172,7 +172,7 @@
 5. A few hundred cards have been printed for around €100–200. The coordinator, within the four spare hours a week, has set dates for group briefings and a list of willing buddies, and the supermarkets have agreed to put the cards out.
 6. Today: Second Shelf has good relations with two supermarkets, a Facebook page with 1,200 followers, current regulars who can act as buddies, and the €3,000 budget.
 
-### 3. Bookable Micro-Shifts
+### 6. Bookable Micro-Shifts
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. Short slots booked by phone lower the barrier for busy under-50s, and the route from six slots to a fixed slot turns occasional helpers into regulars. Together these grow the Saturday rota toward 40 and raise its under-50 share, while older regulars keep their long shifts.

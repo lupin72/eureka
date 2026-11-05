@@ -1,6 +1,6 @@
 ## ideas/six-hats.md
 
-### 1. Regulars become shift captains
+### 2. Regulars become shift captains
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. Giving over-65 regulars a lighter seated role slows the outflow, and making each captain bring in and mentor someone under 50 adds younger volunteers. Together these push toward a stable rota of 40 or more with at least a third under 50. If around 15 of the 30 older regulars become captains and each brings one person, that is roughly the 14 under-50 volunteers the target needs.

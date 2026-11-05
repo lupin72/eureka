@@ -23,7 +23,7 @@
 4. The "just turn up at 8:30" offer is posted on the Facebook page (1,200 followers) and in the parish newsletter.
 5. The coordinator writes the briefing script and the post and asks two regulars to act as buddies, within four spare hours and at no cost. This is achievable today.
 
-### 3. Supermarket staff on the sorting shift
+### 5. Supermarket staff on the sorting shift
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Mostly. Supermarket staff are mostly working-age, so they add under-50 hands. Released staff do count as volunteers as long as the employer, not Second Shelf, pays for their time. The weekday sorting hours alone do not make a stable Saturday rota, though. Only the staff who move on to Saturdays, or a fixed weekday team, count towards the stable 40.
@@ -38,7 +38,7 @@
 **Broken link:** Step 2. If the staff rotate from group to group, every new group needs its own food-safety briefing and someone to supervise it on a weekday afternoon. That cannot fit in the coordinator's four spare hours a week.
 **Possible fix:** Ask each supermarket for a small fixed team (the same three or four people on a regular weekly slot), so that each person is briefed only once. Have a trained regular volunteer lead the weekday sorting shift.
 
-### 4. After-work warehouse evenings
+### 6. After-work warehouse evenings
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. Evening slots open the rota to working people under 50 who cannot help during the day, and Saturday distribution stays as it is.
@@ -53,7 +53,7 @@
 **Broken link:** Step 3. If the coordinator has to supervise two 2-hour evenings a week, that uses all four spare hours, which leaves nothing for briefings, recruitment or anything else.
 **Possible fix:** Start with one evening a week, run by one or two trusted regular volunteers who are given keys and trained to supervise, so that it takes none of the coordinator's hours once it is set up.
 
-### 5. Ninety-minute micro-slots
+### 7. Ninety-minute micro-slots
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. Single 90-minute slots lower the commitment that keeps busy younger people away, while regulars can still stack slots. That adds active volunteers, including under-50s, to a Saturday rota.

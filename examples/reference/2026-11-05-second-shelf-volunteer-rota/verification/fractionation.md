@@ -1,6 +1,6 @@
 ## ideas/fractionation.md
 
-### 1. Parcel count on the wall
+### 5. Parcel count on the wall
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Realised, it turns the 1,200 Facebook followers, the audience most likely to include under-50s, into weekday crew members with a named session and a visible result, so it grows the rota toward 40 and shifts its age mix. Single-session sign-ups only reach the Desired state if crews keep their newcomers, and a named crew with a weekly tally gives them a reason to come back.
@@ -11,7 +11,7 @@
 3. One regular per crew has editor access to the Facebook page and agrees to post the tally and photo after the session, with crew members' consent to appear by first name.
 4. The coordinator sets up the booking link and a monthly group briefing slot, and asks one regular per weekday crew to be its poster. This fits in the four spare hours a week, costs nothing from the €3,000, and uses the warehouse's existing Tuesday–Saturday hours and the existing page, so it can be done today.
 
-### 2. The briefing is the first shift
+### 6. The briefing is the first shift
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Realised, it turns more sign-ups into rota members by making the first visit count, which helps close the gap between eight lost and two recruited. It does not bring in new or younger people on its own, so it gets to the Desired state only alongside something that fills the funnel.

@@ -20,26 +20,26 @@ Elements:
   - Facebook page; parish newsletter; supermarket posters; open day
   - *second round:* university service-learning modules; company volunteering-day schemes; job centre work-experience referrals
 
-## 1. Saturday crèche, run by the elders
+## 3. Saturday crèche, run by the elders
 
 **Description:** Open a supervised children's corner at the warehouse on Saturdays so parents can volunteer without needing childcare. The over-65 regulars who find lifting crates harder take turns running it (story time, colouring, a snack table), which keeps them on the rota.
 **Technique:** Alternatives, alternative: `the thank-you → a Saturday crèche so parents can come`; SCAMPER, operator: `Combine`; Six Hats, Green Hat seed: `Make childcare the reason people can come, not the reason they can't`
 **Problem it solves:** It opens the door to parents under 50 whose Saturdays are taken up by their children, and it slows the loss of older volunteers by giving them a lighter role.
 **Convergence:** Alternatives, SCAMPER, Six Hats
 
-## 2. Bring-a-grandchild generations shift
+## 4. Bring-a-grandchild generations shift
 
 **Description:** Ask each of the 30 over-65 regulars to bring one younger relative or neighbour to a "generations Saturday" each quarter, where the two work the same station side by side. The newcomer sees a familiar face on day one, and the older volunteer passes on what they know before stepping back.
 **Technique:** Alternatives, alternative: `who recruits → each older volunteer brings a younger relative`
 **Problem it solves:** It makes the ageing core of the rota the route younger people come in by, so the volunteer base renews itself instead of shrinking.
 
-## 3. Pedal parcels
+## 6. Pedal parcels
 
 **Description:** Invite a local cycling club, and anyone with a cargo bike, to deliver Saturday parcels to housebound households along fixed routes. Riders sign up as a club activity, the ride itself is part of the reward, and the van is freed for supermarket pickups.
 **Technique:** Alternatives, alternative: `where and what the work is → Saturday bike deliveries to housebound households`
 **Problem it solves:** It creates a new volunteer role that suits under-50s and brings in a whole club at once.
 
-## 4. University service-learning partner
+## 7. University service-learning partner
 
 **Description:** Offer Second Shelf as a placement for a university or college service-learning, social-work or nutrition module: students do a set number of Saturdays for course credit and the coordinator signs off their hours. Each new class brings a fresh group, and some students stay on after the module ends.
 **Technique:** Alternatives, alternative: `recruitment channel → university service-learning modules`

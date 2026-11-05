@@ -2,7 +2,7 @@
 
 ### 1. La tavola fissa del giovedì
 
-**Verdict:** ✅ Aderente e percorribile
+**Verdict:** ✅ Adherent and walkable
 **Adherence:** Una cena settimanale con le stesse tre o quattro persone garantisce l'uscita di ogni settimana e, nei sei mesi, crea proprio le persone da chiamare senza organizzare troppo. Il formato piccolo e ripetuto si addice a un'introversa.
 **Backward chain:**
 
@@ -14,7 +14,7 @@
 
 ### 2. Le ricette dei vicini
 
-**Verdict:** ✅ Aderente e percorribile
+**Verdict:** ✅ Adherent and walkable
 **Adherence:** Pomeriggi a due ripetuti con vicini che abitano a pochi passi diventano rapporti da cui si può passare senza preavviso, e la ricetta da ricambiare dà a ogni incontro un seguito. Copre l'uscita settimanale e il bisogno di poche persone vicine, senza gruppi numerosi.
 **Backward chain:**
 
@@ -26,7 +26,7 @@
 
 ### 3. Cliente con un nome
 
-**Verdict:** ❌ Non aderente
+**Verdict:** ❌ Not adherent
 **Adherence:** Realizzata, l'idea le dà tre posti in cui è un volto noto e scambi brevi con chi ci lavora, ma non tre persone da chiamare per vedersi né un'uscita settimanale con qualcuno. Venditori, baristi e meccanici stanno lavorando: il rapporto resta di servizio, e passare all'amicizia richiederebbe un passo che l'idea non prevede.
 **Backward chain:**
 
@@ -39,7 +39,7 @@
 
 ### 4. Lievito madre in adozione
 
-**Verdict:** 🔧 Aderente, un anello da sistemare
+**Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Vicini che tornano per il lievito, chiedono consiglio e portano assaggi diventano persone a pochi metri da vedere senza preavviso, cioè quelle dello stato desiderato. Il lievito dà la scusa ricorrente per rivedersi.
 **Backward chain:**
 
@@ -54,7 +54,7 @@
 
 ### 5. Sportello traduzioni del sabato
 
-**Verdict:** ✅ Aderente e percorribile
+**Verdict:** ✅ Adherent and walkable
 **Adherence:** Un'ora fissa ogni sabato con gli stessi due o tre volontari, seguita da un caffè abituale, dà l'uscita settimanale e un piccolo gruppo stabile da cui nascono le persone da chiamare. Usa una competenza che già ha, gratis, senza cambiare lavoro e senza folla.
 **Backward chain:**
 
@@ -66,7 +66,7 @@
 
 ### 6. Tandem a pedali
 
-**Verdict:** ✅ Aderente e percorribile
+**Verdict:** ✅ Adherent and walkable
 **Adherence:** Uscite a due regolari con persone nuove, in un formato affiancato che stanca poco, possono diventare l'uscita settimanale e, con le persone giuste, alcune delle amicizie cercate. Sfrutta le lingue e la bicicletta che già ha, senza costi.
 **Backward chain:**
 
@@ -78,7 +78,7 @@
 
 ### 7. Ufficio a rotazione in salotto
 
-**Verdict:** ✅ Aderente e percorribile
+**Verdict:** ✅ Adherent and walkable
 **Adherence:** Un giorno a settimana passato con le stesse due o tre persone, con pranzo insieme, elimina le settimane senza vedere nessuno e crea un piccolo gruppo fisso da chiamare anche fuori dal lavoro. Non cambia lavoro e usa ore già previste, senza toccare il budget.
 **Backward chain:**
 

@@ -1,6 +1,6 @@
 ## ideas/fractionation.md
 
-### 1. The hygiene certificate as a front door
+### 3. The hygiene certificate as a front door
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. Students and job-seekers are mostly under 50, and a supervised Saturday shift built into the course puts them on the line, so this targets both the size of the rota and its age mix.
@@ -15,7 +15,7 @@
 **Broken link:** Step 3. Second Shelf cannot issue a recognised food-hygiene certificate by itself, because hospitality food-hygiene training has to come from an accredited provider. Paying an accredited trainer every month would also strain the €3,000 budget and the coordinator's four hours.
 **Possible fix:** Partner with a local catering school or accredited training provider that co-delivers and co-signs one session a quarter at a reduced or donated fee. Between those sessions, give each graduate a signed volunteer-hours reference letter alongside the in-house briefing.
 
-### 2. Grandparent corner
+### 4. Grandparent corner
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. It works on both sides of the Problem. Older regulars who would otherwise leave stay active, and under-50 parents who were kept away by Saturday childcare can join the rota.
@@ -27,7 +27,7 @@
 4. Several older regulars who struggle with crates have agreed to switch roles.
 5. Today the coordinator can raise the idea with the regulars on a Saturday and phone the insurer. Both fit in the four spare hours.
 
-### 3. Friday Night Pack
+### 5. Friday Night Pack
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. It gives working people a way in that fits their week and then moves them onto the Saturday rota. That raises numbers and lowers the average age.

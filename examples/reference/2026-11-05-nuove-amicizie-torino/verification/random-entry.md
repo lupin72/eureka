@@ -2,7 +2,7 @@
 
 ### 1. Lettere di presentazione a catena
 
-**Verdict:** ✅ Adherente e percorribile
+**Verdict:** ✅ Adherent and walkable
 **Adherence:** Sì: a regime la catena produce una rete di persone in città conosciute a tu per tu, tra cui scegliere le tre da chiamare senza organizzazione e con cui uscire ogni settimana. Il formato uno a uno rispetta l'introversione e non passa da app di incontri.
 **Backward chain:**
 
@@ -12,9 +12,9 @@
 4. Alcuni amici, ex colleghi e clienti fuori Torino hanno scritto una breve mail che ti presenta a una persona che conoscono in città.
 5. Oggi scrivi un messaggio breve alla tua rete fuori Torino chiedendo a ciascuno un solo nome in città: lo puoi fare da casa, gratis, stasera.
 
-### 2. Corrispondenza lenta con un vicino sconosciuto
+### 4. Corrispondenza lenta con un vicino sconosciuto
 
-**Verdict:** ✅ Adherente e percorribile
+**Verdict:** ✅ Adherent and walkable
 **Adherence:** Sì: ogni corrispondenza termina in un incontro di persona con qualcuno già conosciuto per lettera, e tenendo aperte alcune corrispondenze in parallelo si arriva in sei mesi a più persone con cui vedersi ogni settimana. L'incontro uno a uno, preparato dalle lettere, è adatto a un'introversa e non usa app di incontri.
 **Backward chain:**
 
@@ -24,9 +24,9 @@
 4. Una libreria o biblioteca di San Salvario ha accettato di esporre l'annuncio e di tenere una cassetta per le lettere.
 5. Oggi scrivi l'annuncio e lo proponi alla libreria o biblioteca di quartiere, raggiungibile a piedi o in bici: costo quasi nullo (carta, buste).
 
-### 3. Gite in busta chiusa
+### 5. Gite in busta chiusa
 
-**Verdict:** 🔧 Adherente, anello da sistemare
+**Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Sì: un rito settimanale di trekking in giornata condiviso con persone diverse porta a uscire con qualcuno ogni weekend e a costruire legami a tu per tu, facendo leva sulle tue passioni per il trekking e la cucina.
 **Backward chain:**
 

@@ -23,21 +23,37 @@
 **Movement:** Replaced: the lone planner was replaced by the household as a group of voters, which gives the planner a social reason to come back each week and shares the decision fatigue that drives churn.
 **Problem it solves:** Planning becomes a household ritual with others waiting on it, so the planner keeps returning past the third week.
 
-## 4. Dinner calendar feed
+## 4. Rotation, not recipe hunt
+
+**Description:** After two weeks Pantry learns the household's ten or so staple dinners and fills each new week with a rotation of them by default, leaving one "new dish" slot to try something from the library. The user edits a ready week rather than building one from scratch.
+**Technique:** Challenge, assumption challenged: `the app's value is discovering new recipes from its library`
+**Movement:** Dropped: without novelty as the value, the 3,000-recipe library stops being a search burden and becomes an occasional extra, while the real household habit (eating the same favourites) becomes the core of the plan.
+**Problem it solves:** It cuts the effort of each new week to near zero, so users still plan with Pantry when the excitement of browsing recipes wears off.
+**Merged into:** ideas/scamper.md › 4. Plan once, rotate a month
+
+## 5. Leftover carry-forward
+
+**Description:** When a week ends, Pantry asks which ingredients are left over (half a cabbage, an open tub of cream) and starts next week's plan around them, showing how much food and money the household saved. Each week becomes the continuation of the last, not a fresh start.
+**Technique:** Challenge, assumption challenged: `each planned week is independent of the one before`
+**Movement:** Dropped: once weeks are linked, there is always an unfinished thread pulling the user back, and the running waste-saved tally gives a reason to keep the chain going.
+**Problem it solves:** It gives new users a concrete reason to plan the next week instead of letting the app lapse after one or two.
+**Merged into:** ideas/scamper.md › 2. Leftover-led second week
+
+## 6. Dinner calendar feed
 
 **Description:** Pantry publishes the week's dinners as a subscribable calendar feed, so each evening's meal and its prep note appear in the household's existing calendars next to work and school events. Tapping an event opens that dinner in Pantry to swap or adjust it.
 **Technique:** Challenge, assumption challenged: `users get value only when they open the app`
 **Movement:** Replaced: the app screen as the place where the plan lives was replaced by the calendar people already check daily, so Pantry stays present all week without a push campaign and the next planning session is one tap away.
 **Problem it solves:** It keeps the plan visible between sessions, so users don't forget Pantry in the weeks when attention fades.
 
-## 5. Skip-proof week
+## 7. Skip-proof week
 
 **Description:** The plan includes flex nights, and any dinner that wasn't cooked rolls forward automatically with its ingredients, instead of the week showing as "missed". The weekly summary celebrates what was cooked rather than flagging what wasn't.
 **Technique:** Challenge, assumption challenged: `the household cooks dinners exactly as planned`
 **Movement:** Dropped: accepting that plans break turns a failed week from a reason to quit into a normal event the app absorbs, which targets the moment of disappointment after the first real-life week.
 **Problem it solves:** It prevents the sense of failure that makes new users abandon planning after a week that didn't go to plan.
 
-## 6. Cook-swap pairs
+## 8. Cook-swap pairs
 
 **Description:** Pantry pairs two nearby households who opt in; each cooks a double batch of one planned dinner per week and swaps a portion, with the swap dish built into both plans. The pair's shared schedule lives in Pantry.
 **Technique:** Challenge, assumption challenged: `each household plans and cooks on its own`

@@ -1,6 +1,6 @@
 ## ideas/scamper.md
 
-### 1. Run it like parkrun
+### 3. Run it like parkrun
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** A public list of named roles with self-service slot-claiming and milestone tokens lowers the bar for working-age people who cannot give every Saturday, and gives everyone a visible reason to keep coming. That works on both recruitment and retention, so it moves the rota toward 40 active volunteers with a third under 50.
@@ -11,7 +11,7 @@
 3. The coordinator has defined the Saturday roles, set up a free sign-up tool (a shared sheet or a free-tier sign-up service), scheduled a monthly group briefing, and ordered low-cost milestone tokens (well within €3,000; they are recognition, not pay).
 4. The coordinator spends part of the four spare weekly hours on the setup. Achievable today with existing staff, the Facebook page and partner relationships.
 
-### 2. The four-Saturdays pledge
+### 4. The four-Saturdays pledge
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** A small, fixed pledge suits busy, younger people and can grow the pool past 40, with some pledgers becoming regulars. That addresses both the headcount and the under-50 share in the Desired state.

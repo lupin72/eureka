@@ -1,6 +1,6 @@
 ## ideas/alternatives.md
 
-### 1. Saturday crèche, run by the elders
+### 3. Saturday crèche, run by the elders
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. A Saturday childcare corner removes the main barrier for parents under 50, the group the brief's Desired state needs, and moving older regulars into a lighter role cuts the losses that shrink the rota.
@@ -12,7 +12,7 @@
 4. The coordinator, in two or three weeks of spare hours, has written a one-page safeguarding and children's corner policy and asked older regulars at a Saturday handout which of them would rather read stories than lift crates.
 5. Today: the coordinator rings the insurer and walks the warehouse to pick the corner. Both fit in this week's four spare hours.
 
-### 2. Bring-a-grandchild generations shift
+### 4. Bring-a-grandchild generations shift
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. If quarterly generations Saturdays turn invited relatives and neighbours into regulars, the rota grows with younger people and older volunteers pass on what they know before they step back, which is the renewal the brief asks for.
@@ -28,7 +28,7 @@
 **Broken link:** Step 4. Framed as "bring a grandchild", many of the people the 30 over-65 regulars bring will be teenagers, and the brief requires every volunteer to be over 18.
 **Possible fix:** Call it "bring a younger adult", say in the invitation that the guest must be 18 or over (an adult grandchild, child, nephew, niece or neighbour), and check ages at the sign-in desk before the briefing.
 
-### 3. Pedal parcels
+### 6. Pedal parcels
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. A Saturday delivery role recruited through a cycling club brings in a block of active volunteers who are mostly under 50, which counts directly towards the 40 and the under-50 third.
@@ -41,7 +41,7 @@
 5. The coordinator has asked recipients at the Saturday handout who knows a housebound neighbour or relative, and has met the club captain.
 6. Today: the coordinator finds a local cycling club and messages its captain, and puts a "do you know someone who can't get here?" note on the handout table. Both fit in this week's four spare hours.
 
-### 4. University service-learning partner
+### 7. University service-learning partner
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. A rolling cohort of students each term is a steady supply of adult volunteers under 30, and with some staying on after their module it can keep the rota at 40 with well over a third under 50.

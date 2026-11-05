@@ -114,7 +114,7 @@
 4. The "just turn up at 8:30" offer is posted on the Facebook page (1,200 followers) and in the parish newsletter.
 5. The coordinator writes the briefing script and the post and asks two regulars to act as buddies, within four spare hours and at no cost. This is achievable today.
 
-### 3. Supermarket staff on the sorting shift
+### 5. Supermarket staff on the sorting shift
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Mostly. Supermarket staff are mostly working-age, so they add under-50 hands. Released staff do count as volunteers as long as the employer, not Second Shelf, pays for their time. The weekday sorting hours alone do not make a stable Saturday rota, though. Only the staff who move on to Saturdays, or a fixed weekday team, count towards the stable 40.
@@ -129,7 +129,7 @@
 **Broken link:** Step 2. If the staff rotate from group to group, every new group needs its own food-safety briefing and someone to supervise it on a weekday afternoon. That cannot fit in the coordinator's four spare hours a week.
 **Possible fix:** Ask each supermarket for a small fixed team (the same three or four people on a regular weekly slot), so that each person is briefed only once. Have a trained regular volunteer lead the weekday sorting shift.
 
-### 4. After-work warehouse evenings
+### 6. After-work warehouse evenings
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. Evening slots open the rota to working people under 50 who cannot help during the day, and Saturday distribution stays as it is.
@@ -144,7 +144,7 @@
 **Broken link:** Step 3. If the coordinator has to supervise two 2-hour evenings a week, that uses all four spare hours, which leaves nothing for briefings, recruitment or anything else.
 **Possible fix:** Start with one evening a week, run by one or two trusted regular volunteers who are given keys and trained to supervise, so that it takes none of the coordinator's hours once it is set up.
 
-### 5. Ninety-minute micro-slots
+### 7. Ninety-minute micro-slots
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. Single 90-minute slots lower the commitment that keeps busy younger people away, while regulars can still stack slots. That adds active volunteers, including under-50s, to a Saturday rota.
@@ -158,7 +158,7 @@
 
 ## ideas/challenge.md
 
-### 1. Self-run swap board with shift captains
+### 5. Self-run swap board with shift captains
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. Once it is running, Saturdays are covered by a pool of at least 40 people who each give as many Saturdays as suits them. That deals with both halves of the Problem: fewer people leave from burnout or guilt over absences, and people under 50 with irregular working and family weeks, who cannot promise a fixed weekly slot, can now join. The pool can grow to the Desired state's 40 active volunteers, a third of them under 50.
@@ -173,7 +173,7 @@
 
 ## ideas/reversal.md
 
-### 1. The briefing goes on tour
+### 3. The briefing goes on tour
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. Offices and colleges are full of under-50s, so bringing the briefing to them adds younger people to the rota, which is the gap between today's 45 mostly over-65 regulars and a stable 40 with a third under 50.
@@ -188,7 +188,7 @@
 **Broken link:** Step 2. Many college students are under 18, and handing out cards to a whole group breaks the rule that volunteers must be over 18.
 **Possible fix:** Check age when people book or when the card is issued, and give "cleared to volunteer" cards only to attendees confirmed to be 18 or over. At colleges, offer the session only to adult or final-year students.
 
-### 2. The newcomer runs the Facebook page
+### 8. The newcomer runs the Facebook page
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. Clips made by young peers about real Saturdays reach under-50s in a way that recruitment calls don't, so the idea works on the under-50 share and the size of the rota.
@@ -205,7 +205,7 @@
 
 ## ideas/concept-fan.md
 
-### 1. Run to the Shelf
+### 7. Run to the Shelf
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. A running club that turns up as a group every Saturday adds a recurring block of mostly under-50 volunteers to the distribution rota. That moves Second Shelf towards 40 active volunteers with at least a third under 50, and the weekly ritual makes them stay, which is what keeps the rota stable.
@@ -222,7 +222,7 @@
 
 ## ideas/fractionation.md
 
-### 1. Parcel count on the wall
+### 5. Parcel count on the wall
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Realised, it turns the 1,200 Facebook followers, the audience most likely to include under-50s, into weekday crew members with a named session and a visible result, so it grows the rota toward 40 and shifts its age mix. Single-session sign-ups only reach the Desired state if crews keep their newcomers, and a named crew with a weekly tally gives them a reason to come back.
@@ -233,7 +233,7 @@
 3. One regular per crew has editor access to the Facebook page and agrees to post the tally and photo after the session, with crew members' consent to appear by first name.
 4. The coordinator sets up the booking link and a monthly group briefing slot, and asks one regular per weekday crew to be its poster. This fits in the four spare hours a week, costs nothing from the €3,000, and uses the warehouse's existing Tuesday–Saturday hours and the existing page, so it can be done today.
 
-### 2. The briefing is the first shift
+### 6. The briefing is the first shift
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Realised, it turns more sign-ups into rota members by making the first visit count, which helps close the gap between eight lost and two recruited. It does not bring in new or younger people on its own, so it gets to the Desired state only alongside something that fills the funnel.
@@ -249,7 +249,7 @@
 
 ## ideas/alternatives.md
 
-### 1. Saturday crèche, run by the elders
+### 3. Saturday crèche, run by the elders
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. A Saturday childcare corner removes the main barrier for parents under 50, the group the brief's Desired state needs, and moving older regulars into a lighter role cuts the losses that shrink the rota.
@@ -261,7 +261,7 @@
 4. The coordinator, in two or three weeks of spare hours, has written a one-page safeguarding and children's corner policy and asked older regulars at a Saturday handout which of them would rather read stories than lift crates.
 5. Today: the coordinator rings the insurer and walks the warehouse to pick the corner. Both fit in this week's four spare hours.
 
-### 2. Bring-a-grandchild generations shift
+### 4. Bring-a-grandchild generations shift
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. If quarterly generations Saturdays turn invited relatives and neighbours into regulars, the rota grows with younger people and older volunteers pass on what they know before they step back, which is the renewal the brief asks for.
@@ -277,7 +277,7 @@
 **Broken link:** Step 4. Framed as "bring a grandchild", many of the people the 30 over-65 regulars bring will be teenagers, and the brief requires every volunteer to be over 18.
 **Possible fix:** Call it "bring a younger adult", say in the invitation that the guest must be 18 or over (an adult grandchild, child, nephew, niece or neighbour), and check ages at the sign-in desk before the briefing.
 
-### 3. Pedal parcels
+### 6. Pedal parcels
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. A Saturday delivery role recruited through a cycling club brings in a block of active volunteers who are mostly under 50, which counts directly towards the 40 and the under-50 third.
@@ -290,7 +290,7 @@
 5. The coordinator has asked recipients at the Saturday handout who knows a housebound neighbour or relative, and has met the club captain.
 6. Today: the coordinator finds a local cycling club and messages its captain, and puts a "do you know someone who can't get here?" note on the handout table. Both fit in this week's four spare hours.
 
-### 4. University service-learning partner
+### 7. University service-learning partner
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. A rolling cohort of students each term is a steady supply of adult volunteers under 30, and with some staying on after their module it can keep the rota at 40 with well over a third under 50.
@@ -307,7 +307,7 @@
 
 ## ideas/scamper.md
 
-### 1. Run it like parkrun
+### 3. Run it like parkrun
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** A public list of named roles with self-service slot-claiming and milestone tokens lowers the bar for working-age people who cannot give every Saturday, and gives everyone a visible reason to keep coming. That works on both recruitment and retention, so it moves the rota toward 40 active volunteers with a third under 50.
@@ -318,7 +318,7 @@
 3. The coordinator has defined the Saturday roles, set up a free sign-up tool (a shared sheet or a free-tier sign-up service), scheduled a monthly group briefing, and ordered low-cost milestone tokens (well within €3,000; they are recognition, not pay).
 4. The coordinator spends part of the four spare weekly hours on the setup. Achievable today with existing staff, the Facebook page and partner relationships.
 
-### 2. The four-Saturdays pledge
+### 4. The four-Saturdays pledge
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** A small, fixed pledge suits busy, younger people and can grow the pool past 40, with some pledgers becoming regulars. That addresses both the headcount and the under-50 share in the Desired state.
@@ -335,7 +335,7 @@
 
 ## ideas/six-hats.md
 
-### 1. Regulars become shift captains
+### 2. Regulars become shift captains
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Yes. Giving over-65 regulars a lighter seated role slows the outflow, and making each captain bring in and mentor someone under 50 adds younger volunteers. Together these push toward a stable rota of 40 or more with at least a third under 50. If around 15 of the 30 older regulars become captains and each brings one person, that is roughly the 14 under-50 volunteers the target needs.

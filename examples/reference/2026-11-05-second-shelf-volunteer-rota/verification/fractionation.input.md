@@ -21,13 +21,13 @@ Fractions:
   - pride of a finished parcel
   - grief of a lost regular
 
-## 1. Parcel count on the wall
+## 5. Parcel count on the wall
 
 **Description:** Each weekday sorting session posts its tally on the Facebook page that evening: "Tuesday crew packed 64 parcels," with a photo of the stacked shelves and the crew's first names. Followers can sign up for a single named session with one tap, so they join a crew with a visible result rather than an open-ended commitment.
 **Technique:** Fractionation, fractions: `Tuesday–Friday warehouse sorting + pride of a finished parcel + 1,200 Facebook followers`
 **Problem it solves:** It turns passive followers into short-shift volunteers by showing them a finished piece of work they could be part of.
 
-## 2. The briefing is the first shift
+## 6. The briefing is the first shift
 
 **Description:** The food-safety briefing stops being a step before volunteering and becomes a paired two-hour first shift: the newcomer sorts alongside a regular, who teaches the hygiene rules hands-on as they come up. Finishing the shift counts as passing the briefing, so a newcomer's first visit already makes them part of the rota.
 **Technique:** Fractionation, fractions: `food-safety briefing + the awkward first shift + over-65 regulars' know-how`

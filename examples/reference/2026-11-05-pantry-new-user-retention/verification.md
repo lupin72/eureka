@@ -122,7 +122,7 @@
 3. A lightweight web view of a plan and a votes endpoint are built on the existing backend.
 4. The two engineers and the designer schedule the web view and votes for the quarter, with hosting costs well under €10,000. This is achievable today.
 
-### 4. Dinner calendar feed
+### 6. Dinner calendar feed
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Realised, the plan sits in the household's everyday calendar, so Pantry stays visible between sessions and is one tap away when a dinner needs adjusting. That supports users still planning with Pantry after two months.
@@ -136,7 +136,7 @@
 **Broken link:** Step 2: default per-dinner calendar alerts make the feed an automated reminder channel on the user's device. In effect it is a push-notification campaign, which is Out of bounds.
 **Possible fix:** Publish events with no alarms (no VALARM in the feed) and leave any alerts to the user's own calendar settings. The feed then gives visibility, not notifications.
 
-### 5. Skip-proof week
+### 7. Skip-proof week
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Realised, a week that didn't go to plan no longer reads as a failure. This removes a direct trigger for new users abandoning after their first or second planned week, so more stay to the two-month Desired state.
@@ -147,7 +147,7 @@
 3. Each dinner has a cooked/not-cooked state, and the designer has redrawn the week view and summary copy without "missed" markers.
 4. The team scopes these planner and copy changes for the quarter with the current four people and no spend. This is achievable today.
 
-### 6. Cook-swap pairs
+### 8. Cook-swap pairs
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Realised, new users have a standing weekly commitment to another household built into their plan. That is an outside reason to keep planning with Pantry for months, which is the Desired state.
@@ -164,7 +164,7 @@
 
 ## ideas/provocation.md
 
-### 1. Everyone owns a night
+### 5. Everyone owns a night
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** Once household members own nights, the week's plan no longer hangs on one person's motivation: others expect their night to be on it and their picks to show up on the list. That gives new account holders a reason to keep planning weekly past the first two weeks, which is the brief's Desired state. It does carry a risk: it only helps multi-person households, so single-person users get no retention gain from it.
@@ -216,7 +216,7 @@
 **Broken link:** Step 4: sending users' screenshots and personal notes to an outside AI vendor risks breaking "No selling or sharing user data". It also stretches the two engineers and the three-month deadline across capture on two platforms plus image recognition.
 **Possible fix:** Limit the first version to typed text and shared recipe links, matched in-house against recipe titles and ingredients with keyword search, and leave screenshots out. No user content leaves Pantry, and the scope fits two engineers in a quarter.
 
-### 4. Brood night
+### 6. Brood night
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** In households with children, a weekly kids' night the children ask for brings the parent back to plan each week, which targets the drop-off directly. It does nothing for households without children, so the share of families among new users caps how far it moves "most new users".
@@ -228,7 +228,7 @@
 4. The designer has designed the kid-scaled card, and the recipes are tagged as simple and family-friendly.
 5. The library, the designer and the engineers exist today. The content writing fits the team or a freelance writer well under €10,000, and the whole thing ships within three months.
 
-### 5. Harvest frame
+### 7. Harvest frame
 
 **Verdict:** ❌ Not adherent
 **Adherence:** The first harvest frame arrives at the end of the first month, after the three-week window in which 40% of new users have already stopped opening the app. The users the brief is about never see it, so the drop-off is untouched.

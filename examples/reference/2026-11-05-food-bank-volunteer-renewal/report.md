@@ -23,7 +23,7 @@
 
 ### 2. Grandparent corner
 
-**Card:** ideas/fractionation.md › 2. Grandparent corner
+**Card:** ideas/fractionation.md › 4. Grandparent corner
 **Source:** Fractionation
 **Verdict:** ✅ Adherent and walkable
 **Why it ranks here:** ✅ and turns the ageing problem into the solution: older regulars move to a children's corner, which frees parents under 50 to work the line.
@@ -41,7 +41,7 @@
 
 ### 4. Bookable Micro-Shifts
 
-**Card:** ideas/six-hats.md › 3. Bookable Micro-Shifts
+**Card:** ideas/six-hats.md › 6. Bookable Micro-Shifts
 **Source:** Six Hats
 **Verdict:** ✅ Adherent and walkable
 **Why it ranks here:** ✅ and lets working-age people help in 90-minute slots around the fixed regulars, replacing the coordinator's phone calls with a booking page.
@@ -50,7 +50,7 @@
 
 ### 5. Gift a Saturday
 
-**Card:** ideas/six-hats.md › 2. Gift a Saturday
+**Card:** ideas/six-hats.md › 5. Gift a Saturday
 **Source:** Six Hats
 **Verdict:** ✅ Adherent and walkable
 **Why it ranks here:** ✅ but the closest to the baseline of the walkable ideas: it still invites individuals, through people they already know.
@@ -88,15 +88,17 @@
 
 ### The hygiene certificate as a front door
 
-**Card:** ideas/fractionation.md › 1. The hygiene certificate as a front door
+**Card:** ideas/fractionation.md › 3. The hygiene certificate as a front door
 **Source:** Fractionation, Six Hats (converged)
+**Technique:** Fractionation, fractions: `food-safety briefing + 1,200 Facebook followers + awkwardness of first shift`; Six Hats, Green Hat seed: `A volunteer shift is a line on your CV, not a favour`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 3. Second Shelf cannot issue a recognised food-hygiene certificate by itself, because hospitality food-hygiene training has to come from an accredited provider. Paying an accredited trainer every month would also strain the €3,000 budget and the coordinator's four hours. Fix: Partner with a local catering school or accredited training provider that co-delivers and co-signs one session a quarter at a reduced or donated fee. Between those sessions, give each graduate a signed volunteer-hours reference letter alongside the in-house briefing.
 
 ### Friday Night Pack
 
-**Card:** ideas/fractionation.md › 3. Friday Night Pack
+**Card:** ideas/fractionation.md › 5. Friday Night Pack
 **Source:** Fractionation
+**Technique:** Fractionation, fractions: `Tuesday–Friday warehouse + loneliness of an empty evening`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 3. Food for 20 to 30 people once a month costs roughly €2,000 to €3,000 a year. That uses up most or all of the €3,000 budget, and the cost rises as the evening succeeds. Fix: Ask the two partner supermarkets to donate the pizza and drinks as a sponsored evening, or make it bring-a-dish, so the budget pays only for occasional extras.
 
@@ -104,6 +106,7 @@
 
 **Card:** ideas/reversal.md › 4. Pop-up shifts where young people already are
 **Source:** Reversal
+**Technique:** Reversal, reversal applied: `the work goes to the volunteers instead of volunteers coming to the work`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 5: staffing several weekday pop-ups would take more than the coordinator's four spare hours a week. The pop-ups also end with nothing that turns a passer-by into a regular, so the rota does not become stable. Fix: Run one pop-up a fortnight, led by a regular volunteer who already drives the van, and end every session with a sign-up for a specific Saturday or weekday slot.
 
@@ -111,12 +114,14 @@
 
 **Card:** ideas/reversal.md › 5. Thanks first, ask later
 **Source:** Reversal
+**Technique:** Reversal, reversal applied: `the food bank gives to the volunteer before the volunteer gives`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 2: guests who help on the spot have not had the food-safety briefing, and taking regulars off distribution to serve breakfast stretches an already thin Saturday team. Fix: Hold the breakfast just before distribution starts, fit the 10–15 minute food-safety briefing into the behind-the-scenes tour, and let only adults who have been briefed stay to help.
 
 ### Warehouse Desk Days
 
-**Card:** ideas/six-hats.md › 1. Warehouse Desk Days
+**Card:** ideas/six-hats.md › 3. Warehouse Desk Days
 **Source:** Six Hats
+**Technique:** Six Hats, Green Hat seed: `The warehouse is a co-working space that happens to sort food`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 3: visitors sort and label food from their first visit, but the idea only asks for the food-safety briefing before a Saturday shift. That breaks the constraint that every volunteer passes the briefing, and it also leaves the over-18 check undone. Fix: Make the short food-safety briefing, with an age check, the price of entry to desk days: run it at the start of each visitor's first visit, so no one handles food unbriefed and every desk-day regular is already cleared for Saturdays.

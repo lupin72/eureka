@@ -39,7 +39,7 @@
 **Broken link:** Step 4: sending users' screenshots and personal notes to an outside AI vendor risks breaking "No selling or sharing user data". It also stretches the two engineers and the three-month deadline across capture on two platforms plus image recognition.
 **Possible fix:** Limit the first version to typed text and shared recipe links, matched in-house against recipe titles and ingredients with keyword search, and leave screenshots out. No user content leaves Pantry, and the scope fits two engineers in a quarter.
 
-### 4. Brood night
+### 6. Brood night
 
 **Verdict:** ✅ Adherent and walkable
 **Adherence:** In households with children, a weekly kids' night the children ask for brings the parent back to plan each week, which targets the drop-off directly. It does nothing for households without children, so the share of families among new users caps how far it moves "most new users".
@@ -51,7 +51,7 @@
 4. The designer has designed the kid-scaled card, and the recipes are tagged as simple and family-friendly.
 5. The library, the designer and the engineers exist today. The content writing fits the team or a freelance writer well under €10,000, and the whole thing ships within three months.
 
-### 5. Harvest frame
+### 7. Harvest frame
 
 **Verdict:** ❌ Not adherent
 **Adherence:** The first harvest frame arrives at the end of the first month, after the three-week window in which 40% of new users have already stopped opening the app. The users the brief is about never see it, so the drop-off is untouched.

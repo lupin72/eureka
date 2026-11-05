@@ -20,13 +20,13 @@ Random word: `honeycomb`
 **Technique:** Random Entry, random word: `honeycomb`
 **Problem it solves:** It removes the blank-page effort that makes users give up on planning after a week or two.
 
-## 4. Brood night
+## 6. Brood night
 
 **Description:** One dinner a week is marked as the kids' night. Pantry picks a simple recipe from the library and shows it as a kid-scaled card with big steps and jobs by age. The children start asking "what's our night this week?", which pulls the parent back into planning.
 **Technique:** Random Entry, random word: `honeycomb`
 **Problem it solves:** It ties the weekly plan to a family habit, so stopping would mean breaking a ritual, not just closing an app.
 
-## 5. Harvest frame
+## 7. Harvest frame
 
 **Description:** At the end of each month the app shows a "harvest frame": dinners cooked, euros not spent on takeaway, and ingredients used up rather than thrown away, estimated from the plans and lists. Users can export it as a one-page image for the fridge.
 **Technique:** Random Entry, random word: `honeycomb`

@@ -1,6 +1,6 @@
 ## ideas/reversal.md
 
-### 1. The briefing goes on tour
+### 3. The briefing goes on tour
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. Offices and colleges are full of under-50s, so bringing the briefing to them adds younger people to the rota, which is the gap between today's 45 mostly over-65 regulars and a stable 40 with a third under 50.
@@ -15,7 +15,7 @@
 **Broken link:** Step 2. Many college students are under 18, and handing out cards to a whole group breaks the rule that volunteers must be over 18.
 **Possible fix:** Check age when people book or when the card is issued, and give "cleared to volunteer" cards only to attendees confirmed to be 18 or over. At colleges, offer the session only to adult or final-year students.
 
-### 2. The newcomer runs the Facebook page
+### 8. The newcomer runs the Facebook page
 
 **Verdict:** 🔧 Adherent, link to fix
 **Adherence:** Yes. Clips made by young peers about real Saturdays reach under-50s in a way that recruitment calls don't, so the idea works on the under-50 share and the size of the rota.

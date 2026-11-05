@@ -38,7 +38,7 @@
 
 ### 3. Saturday crèche, run by the elders
 
-**Card:** ideas/alternatives.md › 1. Saturday crèche, run by the elders
+**Card:** ideas/alternatives.md › 3. Saturday crèche, run by the elders
 **Source:** Alternatives, SCAMPER, Six Hats (converged)
 **Verdict:** ✅ Adherent and walkable
 **Why it ranks here:** ✅ and turns the ageing regulars into the enabler: they run a children's corner so parents under 50 can serve; reached by Alternatives, SCAMPER and Six Hats.
@@ -56,7 +56,7 @@
 
 ### 5. Regulars become shift captains
 
-**Card:** ideas/six-hats.md › 1. Regulars become shift captains
+**Card:** ideas/six-hats.md › 2. Regulars become shift captains
 **Source:** Six Hats
 **Verdict:** ✅ Adherent and walkable
 **Why it ranks here:** ✅ and keeps the over-65 regulars by turning each into a seated captain who brings in and inducts newcomers, a different role rather than a different recruitment channel.
@@ -83,7 +83,7 @@
 
 ### 8. Pedal parcels
 
-**Card:** ideas/alternatives.md › 3. Pedal parcels
+**Card:** ideas/alternatives.md › 6. Pedal parcels
 **Source:** Alternatives
 **Verdict:** ✅ Adherent and walkable
 **Why it ranks here:** ✅ and opens a new kind of task (cargo-bike home delivery) that attracts a club of mostly younger riders.
@@ -101,7 +101,7 @@
 
 ### 10. Ninety-minute micro-slots
 
-**Card:** ideas/provocation.md › 5. Ninety-minute micro-slots
+**Card:** ideas/provocation.md › 7. Ninety-minute micro-slots
 **Source:** Provocation, Alternatives, Six Hats (converged)
 **Verdict:** ✅ Adherent and walkable
 **Why it ranks here:** ✅ and lets people with jobs help in 90-minute slots; reached by three techniques, though it sits closer to the existing rota than the ideas above.
@@ -112,64 +112,73 @@
 
 ### Self-run swap board with shift captains
 
-**Card:** ideas/challenge.md › 1. Self-run swap board with shift captains
+**Card:** ideas/challenge.md › 5. Self-run swap board with shift captains
 **Source:** Challenge
+**Technique:** Challenge, assumption challenged: `a volunteer commits to a regular weekly slot managed by the coordinator`
 **Verdict:** ✅ Adherent and walkable
 **Note:** ✅ walkable, but a smaller step from the baseline than the shortlisted ideas, or a variant of one of them.
 
 ### Parcel count on the wall
 
-**Card:** ideas/fractionation.md › 1. Parcel count on the wall
+**Card:** ideas/fractionation.md › 5. Parcel count on the wall
 **Source:** Fractionation
+**Technique:** Fractionation, fractions: `Tuesday–Friday warehouse sorting + pride of a finished parcel + 1,200 Facebook followers`
 **Verdict:** ✅ Adherent and walkable
 **Note:** ✅ walkable, but a smaller step from the baseline than the shortlisted ideas, or a variant of one of them.
 
 ### Run it like parkrun
 
-**Card:** ideas/scamper.md › 1. Run it like parkrun
+**Card:** ideas/scamper.md › 3. Run it like parkrun
 **Source:** SCAMPER
+**Technique:** SCAMPER, operator: `Adapt`
 **Verdict:** ✅ Adherent and walkable
 **Note:** ✅ walkable, but a smaller step from the baseline than the shortlisted ideas, or a variant of one of them.
 
 ### Bring-a-grandchild generations shift
 
-**Card:** ideas/alternatives.md › 2. Bring-a-grandchild generations shift
+**Card:** ideas/alternatives.md › 4. Bring-a-grandchild generations shift
 **Source:** Alternatives
+**Technique:** Alternatives, alternative: `who recruits → each older volunteer brings a younger relative`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 4. Framed as "bring a grandchild", many of the people the 30 over-65 regulars bring will be teenagers, and the brief requires every volunteer to be over 18. Fix: Call it "bring a younger adult", say in the invitation that the guest must be 18 or over (an adult grandchild, child, nephew, niece or neighbour), and check ages at the sign-in desk before the briefing.
 
 ### University service-learning partner
 
-**Card:** ideas/alternatives.md › 4. University service-learning partner
+**Card:** ideas/alternatives.md › 7. University service-learning partner
 **Source:** Alternatives
+**Technique:** Alternatives, alternative: `recruitment channel → university service-learning modules`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 3. Being a placement provider for social-work or nutrition modules usually means a named supervisor who supervises and assesses each student and fills in termly forms, often on weekdays. That is more than the coordinator's four spare hours a week, and it contradicts the card's claim that the idea costs no coordinator time. Fix: Aim only at volunteering-credit or service-learning modules where students log their own hours and the university does the assessing. The coordinator's only task is to countersign a Saturday sign-in sheet once a month, and the partnership starts with one cohort per term.
 
 ### Run to the Shelf
 
-**Card:** ideas/concept-fan.md › 1. Run to the Shelf
+**Card:** ideas/concept-fan.md › 7. Run to the Shelf
 **Source:** Concept Fan
+**Technique:** Concept Fan, concept: `fold the shift into something people already do for fun`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 2 breaks the €3,000 annual budget. A weekly breakfast for a club group costs, for example, 20 runners × €3 × 52 Saturdays ≈ €3,100. That is more than the whole year's budget and leaves nothing for briefings or anything else. Fix: Ask one of the two partner supermarkets to donate the breakfast items each Saturday as a sponsored "Run to the Shelf" breakfast. Then the budget pays only for occasional extras.
 
 ### The briefing is the first shift
 
-**Card:** ideas/fractionation.md › 2. The briefing is the first shift
+**Card:** ideas/fractionation.md › 6. The briefing is the first shift
 **Source:** Fractionation
+**Technique:** Fractionation, fractions: `food-safety briefing + the awkward first shift + over-65 regulars' know-how`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 2: volunteers must pass the food-safety briefing, and here the newcomer handles food before passing it, because the briefing is only "passed" at the end of the shift. Fix: Open the paired first shift with the short briefing itself, delivered by the trained regular and signed off before the newcomer touches open food. The newcomer spends those minutes on non-food tasks (boxes, labels, shelving), so the first visit is still a real shift and the constraint holds.
 
 ### Supermarket staff on the sorting shift
 
-**Card:** ideas/provocation.md › 3. Supermarket staff on the sorting shift
+**Card:** ideas/provocation.md › 5. Supermarket staff on the sorting shift
 **Source:** Provocation, Challenge, Fractionation, Six Hats (converged)
+**Technique:** Provocation, PO (distortion): `PO the supermarkets' own staff do the food bank's work.`; Challenge, assumption challenged: `donors give food and volunteers give time, and they are different people`; Fractionation, fractions: `supermarket staff + van supermarket run + food-safety briefing`; Six Hats, Green Hat seed: `Let the food bring its own volunteers with it`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 2. If the staff rotate from group to group, every new group needs its own food-safety briefing and someone to supervise it on a weekday afternoon. That cannot fit in the coordinator's four spare hours a week. Fix: Ask each supermarket for a small fixed team (the same three or four people on a regular weekly slot), so that each person is briefed only once. Have a trained regular volunteer lead the weekday sorting shift.
 
 ### After-work warehouse evenings
 
-**Card:** ideas/provocation.md › 4. After-work warehouse evenings
+**Card:** ideas/provocation.md › 6. After-work warehouse evenings
 **Source:** Provocation, Challenge, Concept Fan, Reversal (converged)
+**Technique:** Provocation, PO (distortion): `PO the food bank works only when its volunteers are free, not when it is open.`; Challenge, assumption challenged: `volunteering means the Saturday distribution shift`; Concept Fan, concept: `move the work to the hours younger people have free`; Reversal, reversal applied: `the shift moves to fit the volunteer`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 3. If the coordinator has to supervise two 2-hour evenings a week, that uses all four spare hours, which leaves nothing for briefings, recruitment or anything else. Fix: Start with one evening a week, run by one or two trusted regular volunteers who are given keys and trained to supervise, so that it takes none of the coordinator's hours once it is set up.
 
@@ -177,6 +186,7 @@
 
 **Card:** ideas/random-entry.md › 5. Skis come in pairs
 **Source:** Random Entry, Provocation, Challenge, Reversal, Concept Fan, Fractionation, SCAMPER (converged)
+**Technique:** Random Entry, random word: `ski`; Provocation, PO (distortion): `PO the volunteers who are leaving choose and train their replacements.`; Challenge, assumption challenged: `when a volunteer leaves, the coordinator has to find a replacement from scratch`; Reversal, reversal applied: `the leaving volunteers recruit the new ones`; Concept Fan, concept: `let current volunteers hand on their place`; Fractionation, fractions: `grief of a lost regular + over-65 regulars' know-how + the awkward first shift`; SCAMPER, operator: `Adapt`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 3. Recruiting around 30 under-50s is the problem itself: the current channels (Facebook page, parish, supermarkets) brought in two volunteers last year, and the coordinator's four hours a week cannot run a recruitment campaign that large. Fix: Have each over-65 regular find their own partner among younger family, neighbours or parish contacts, with the coordinator only running the briefing and confirming the match. Recruitment then runs through 30 personal networks and not through the coordinator.
 
@@ -184,27 +194,31 @@
 
 **Card:** ideas/random-entry.md › 6. Après-shelf lunch
 **Source:** Random Entry
+**Technique:** Random Entry, random word: `ski`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 3. The brief does not say the warehouse has a kitchen, and cooking for groups usually needs kitchen facilities and food-safety registration beyond the volunteers' short briefing. Feeding volunteers from donations meant for 220 households may also break the supermarkets' terms or their trust. Fix: Hold the lunch in the partner parish's hall kitchen and pay for simple food from the budget (about €40 a week, roughly €2,000 a year), so donated food stays with households and no new kitchen is needed.
 
 ### The briefing goes on tour
 
-**Card:** ideas/reversal.md › 1. The briefing goes on tour
+**Card:** ideas/reversal.md › 3. The briefing goes on tour
 **Source:** Reversal
+**Technique:** Reversal, reversal applied: `the warehouse comes to the volunteer`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 2. Many college students are under 18, and handing out cards to a whole group breaks the rule that volunteers must be over 18. Fix: Check age when people book or when the card is issued, and give "cleared to volunteer" cards only to attendees confirmed to be 18 or over. At colleges, offer the session only to adult or final-year students.
 
 ### The newcomer runs the Facebook page
 
-**Card:** ideas/reversal.md › 2. The newcomer runs the Facebook page
+**Card:** ideas/reversal.md › 8. The newcomer runs the Facebook page
 **Source:** Reversal
+**Technique:** Reversal, reversal applied: `the new volunteer speaks for the food bank`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 2. Second Shelf recruited only two volunteers last year, so nothing in the current situation guarantees a new under-30 volunteer every quarter. The idea relies on the inflow it is meant to create. Fix: Give the page to the youngest active volunteer, whatever their age, and keep the role for a set term rather than tying it to the latest under-30 arrival. Pass it to a new under-30 volunteer once one joins.
 
 ### The four-Saturdays pledge
 
-**Card:** ideas/scamper.md › 2. The four-Saturdays pledge
+**Card:** ideas/scamper.md › 4. The four-Saturdays pledge
 **Source:** SCAMPER
+**Technique:** SCAMPER, operator: `Modify`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 3. Individually briefing dozens of pledgers and hand-balancing their dates across 52 Saturdays goes beyond the coordinator's four spare hours a week. Fix: Make the process self-serve. Pledgers book their four dates on an online sign-up sheet that caps the places on each Saturday, and new pledgers attend one fixed monthly group food-safety briefing, so the coordinator only publishes dates and runs one session a month.
 
@@ -212,5 +226,6 @@
 
 **Card:** ideas/random-entry.md › 4. Bindings that release
 **Source:** Random Entry
+**Technique:** Random Entry, random word: `ski`
 **Verdict:** ❌ Not adherent
 **Note:** Keeping existing, mostly older volunteers through illness, caring duties and declining strength, which slows the losses but does not renew the rota's age profile.

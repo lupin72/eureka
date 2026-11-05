@@ -33,7 +33,7 @@
 
 ### 3. Everyone owns a night
 
-**Card:** ideas/provocation.md › 1. Everyone owns a night
+**Card:** ideas/provocation.md › 5. Everyone owns a night
 **Source:** Provocation, Random Entry (converged)
 **Verdict:** ✅ Adherent and walkable
 **Why it ranks here:** ✅ and changes the actor: planning no longer rests on one person's motivation; reached by Provocation and Random Entry.
@@ -91,20 +91,23 @@
 
 **Card:** ideas/challenge.md › 3. Family veto link
 **Source:** Challenge
+**Technique:** Challenge, assumption challenged: `one person in the household plans and decides dinners alone`
 **Verdict:** ✅ Adherent and walkable
 **Note:** ✅ walkable, but closer to the baseline or to a shortlisted idea than the cards above the cut.
 
 ### Skip-proof week
 
-**Card:** ideas/challenge.md › 5. Skip-proof week
+**Card:** ideas/challenge.md › 7. Skip-proof week
 **Source:** Challenge
+**Technique:** Challenge, assumption challenged: `the household cooks dinners exactly as planned`
 **Verdict:** ✅ Adherent and walkable
 **Note:** ✅ walkable; it softens the weekly plan rather than changing who plans or when, so it sits closer to the baseline.
 
 ### Brood night
 
-**Card:** ideas/random-entry.md › 4. Brood night
+**Card:** ideas/random-entry.md › 6. Brood night
 **Source:** Random Entry
+**Technique:** Random Entry, random word: `honeycomb`
 **Verdict:** ✅ Adherent and walkable
 **Note:** ✅ walkable, but closer to the baseline or to a shortlisted idea than the cards above the cut.
 
@@ -112,6 +115,7 @@
 
 **Card:** ideas/scamper.md › 1. Household planning rota
 **Source:** SCAMPER
+**Technique:** SCAMPER, operator: `Substitute`
 **Verdict:** ✅ Adherent and walkable
 **Note:** ✅ walkable; a lighter variant of "Everyone owns a night", which ranks above it.
 
@@ -119,20 +123,23 @@
 
 **Card:** ideas/scamper.md › 3. Four-week cooking seasons
 **Source:** SCAMPER
+**Technique:** SCAMPER, operator: `Adapt`
 **Verdict:** ✅ Adherent and walkable
 **Note:** ✅ walkable, but closer to the baseline or to a shortlisted idea than the cards above the cut.
 
 ### Dinner calendar feed
 
-**Card:** ideas/challenge.md › 4. Dinner calendar feed
+**Card:** ideas/challenge.md › 6. Dinner calendar feed
 **Source:** Challenge
+**Technique:** Challenge, assumption challenged: `users get value only when they open the app`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 2: default per-dinner calendar alerts make the feed an automated reminder channel on the user's device. In effect it is a push-notification campaign, which is Out of bounds. Fix: Publish events with no alarms (no VALARM in the feed) and leave any alerts to the user's own calendar settings. The feed then gives visibility, not notifications.
 
 ### Cook-swap pairs
 
-**Card:** ideas/challenge.md › 6. Cook-swap pairs
+**Card:** ideas/challenge.md › 8. Cook-swap pairs
 **Source:** Challenge
+**Technique:** Challenge, assumption challenged: `each household plans and cooks on its own`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 3: Pantry matching strangers means passing one user's identity and location to another household. That breaks "no selling or sharing user data". With 18,000 users spread out, it also leaves many new users with no nearby match. Fix: Drop Pantry-run matching and let a user invite a household they already know (a friend, neighbour or relative) through an invite link. The pair is formed by the users themselves and Pantry shares nothing.
 
@@ -140,6 +147,7 @@
 
 **Card:** ideas/random-entry.md › 3. Nectar tray
 **Source:** Random Entry
+**Technique:** Random Entry, random word: `honeycomb`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 4: sending users' screenshots and personal notes to an outside AI vendor risks breaking "No selling or sharing user data". It also stretches the two engineers and the three-month deadline across capture on two platforms plus image recognition. Fix: Limit the first version to typed text and shared recipe links, matched in-house against recipe titles and ingredients with keyword search, and leave screenshots out. No user content leaves Pantry, and the scope fits two engineers in a quarter.
 
@@ -147,6 +155,7 @@
 
 **Card:** ideas/scamper.md › 5. The household's own cookbook
 **Source:** SCAMPER
+**Technique:** SCAMPER, operator: `Put to another use`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 3: the brief's Problem says users leave after their first or second week, when a cookbook of five or so dinners has too little value to hold them. The idea pays off only after the drop-off window it needs to get through. Fix: Fill the cookbook at sign-up with the household's own regular dinners and family recipes (typed in or matched to library recipes), so it is already worth keeping in week one and the weekly ratings add to it from there.
 
@@ -154,12 +163,14 @@
 
 **Card:** ideas/scamper.md › 7. Cooked-it check-in first
 **Source:** SCAMPER, Provocation (converged)
+**Technique:** SCAMPER, operator: `Reverse`; Provocation, PO (distortion): `PO the household plans the week after they have eaten it.`
 **Verdict:** 🔧 Adherent, link to fix
 **Note:** Step 4: a daily reminder in practice means a push-notification campaign, which is Out of bounds. Without it, step 2 relies on new users opening the app daily on their own, the very behaviour that is failing. Fix: Attach the check-in to moments when users already open Pantry or look at it without being pushed: a home-screen widget showing tonight's dinner with a "cooked it" tap, the check-in shown when they open tonight's recipe to cook, and a one-tap "what did you eat this week?" link in the weekly planning email.
 
 ### Harvest frame
 
-**Card:** ideas/random-entry.md › 5. Harvest frame
+**Card:** ideas/random-entry.md › 7. Harvest frame
 **Source:** Random Entry
+**Technique:** Random Entry, random word: `honeycomb`
 **Verdict:** ❌ Not adherent
 **Note:** Keeping users who have already made it through the first month motivated with a visible, shareable record of the value they have built up: month-two engagement among retained users, not the early drop-off.

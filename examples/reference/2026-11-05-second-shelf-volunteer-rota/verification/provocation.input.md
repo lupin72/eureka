@@ -16,21 +16,21 @@ Provocation type: `distortion`
 **Problem it solves:** It turns casual interest into first shifts and then regular volunteers, which helps close the gap between eight lost and two recruited.
 **Convergence:** Provocation, Reversal, Concept Fan, SCAMPER
 
-## 3. Supermarket staff on the sorting shift
+## 5. Supermarket staff on the sorting shift
 
 **Description:** Second Shelf asks its two partner supermarkets to count the time their staff spend sorting donations at the warehouse as employer-supported volunteering or team-building hours. Staff come in on weekday afternoons, when the warehouse is open but short of hands, and some go on to volunteer on Saturdays in their own time.
 **Technique:** Provocation, PO (distortion): `PO the supermarkets' own staff do the food bank's work.`; Challenge, assumption challenged: `donors give food and volunteers give time, and they are different people`; Fractionation, fractions: `supermarket staff + van supermarket run + food-safety briefing`; Six Hats, Green Hat seed: `Let the food bring its own volunteers with it`
 **Problem it solves:** It brings under-50 helpers onto the rota without Second Shelf paying anyone, because the employer chooses to release its own staff.
 **Convergence:** Provocation, Challenge, Fractionation, Six Hats
 
-## 4. After-work warehouse evenings
+## 6. After-work warehouse evenings
 
 **Description:** Some of the weekday warehouse work (sorting, packing, checking dates) moves to one or two evening slots from 18:00 to 20:00, so that people with day jobs can help. Saturday distribution stays as it is; the evenings prepare for it.
 **Technique:** Provocation, PO (distortion): `PO the food bank works only when its volunteers are free, not when it is open.`; Challenge, assumption challenged: `volunteering means the Saturday distribution shift`; Concept Fan, concept: `move the work to the hours younger people have free`; Reversal, reversal applied: `the shift moves to fit the volunteer`
 **Problem it solves:** It removes the timing barrier that keeps under-50s, who mostly work on weekdays, off a rota built around daytime hours.
 **Convergence:** Provocation, Challenge, Concept Fan, Reversal
 
-## 5. Ninety-minute micro-slots
+## 7. Ninety-minute micro-slots
 
 **Description:** The Saturday rota is cut into 90-minute slots that people can take one at a time, through a simple shared sign-up sheet linked from the Facebook page. Regulars can stack several slots, while newcomers commit to one at a time.
 **Technique:** Provocation, PO (distortion): `PO volunteers sign up after their shift, not before.`; Alternatives, alternative: `unit of commitment → 90-minute micro-shifts booked like a gym class`; Six Hats, Green Hat seed: `Sell the rota like fitness classes, by the slot`
