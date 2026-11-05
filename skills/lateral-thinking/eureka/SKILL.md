@@ -14,6 +14,7 @@ This table is the only home of technique selection. One row per technique skill;
 | Technique | Skill | Summary | Pick when |
 | --- | --- | --- | --- |
 | Random Entry | `lateral-random-entry` | Draw a random concrete noun with the shell from the skill's bundled word list, list its properties, and force each property onto the problem until it moves to a usable idea. | The brief is stuck inside one frame or industry and needs an outside stimulus; works in any domain, so it is the default when few rows fit. |
+| Provocation | `lateral-provocation` | Draw a provocation type (reversal, exaggeration, distortion, wishful thinking) with the shell, state deliberately unreasonable `PO` statements of that type about the problem, then use movement (extract a principle, focus on the difference, moment to moment, positive aspects, special circumstances) to reach usable ideas. | The brief rests on assumptions everyone in the field takes for granted (how things flow, who pays, what order things happen in), or the obvious solution is an incremental tweak of the status quo. |
 
 ## Session folder contract
 
